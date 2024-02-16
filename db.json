@@ -5,5 +5,19 @@
         "title2": "Nunca subestimes a nadie",
         "image": "https://image.tmdb.org/t/p/original/sgXYtcj7SUKnkUxXzEOMJTimAUn.jpg",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p001.mp4"
+    },
+    {
+        "id": 2,
+        "title": "Donde está el fantasma 2",
+        "title2": "Te vas a morir de risa",
+        "image": "https://image.tmdb.org/t/p/original/sgXYtcj7SUKnkUxXzEOMJTimAUn.jpg",
+        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p001.mp4"
+    },
+    {
+        "id": 3,
+        "title": "Cuestion de Tiempo",
+        "title2": "¿Pensaste en una segunda oportunidad?",
+        "image": "https://image.tmdb.org/t/p/original/sgXYtcj7SUKnkUxXzEOMJTimAUn.jpg",
+        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p001.mp4"
     }
 ]
