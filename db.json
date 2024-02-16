@@ -1,5 +1,4 @@
-{
-    "peliculas": 
+[
     {
         "id": 1,
         "title": "Nadie",
@@ -7,4 +6,4 @@
         "image": "https://image.tmdb.org/t/p/original/sgXYtcj7SUKnkUxXzEOMJTimAUn.jpg",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p001.mp4"
     }
-}
+]
