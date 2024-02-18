@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+	<title>icon</title>
+	<style>
+		.s0 { fill: #000000 } 
+		.s1 { fill: #ffffff } 
+		.s2 { fill: #ff3131 } 
+	</style>
+	<g id="Background">
+		<path id="Path 0" class="s0" d="m0 512v512h1024v-1024h-1024z"/>
+		<path id="Path 1" class="s1" d="m542 413.5v141.5c6.6-3.7 56.2-32.1 114.5-65.5 58.3-33.3 112-64.1 119.3-68.3 10.1-5.9 12.9-8 12-8.8-0.7-0.6-56.1-32.4-123-70.7-67-38.4-122-69.7-122.3-69.7-0.3 0-0.5 63.7-0.5 141.5z"/>
+		<path id="Path 2" class="s2" d="m359 363v4h29v32h-29v32h29v32h-29v32h29v32h-29v32h29v32h-29v32h29v32h-29v10h306v-180c-5.8 3-33.4 18.7-65 36.9l-57.5 33-0.5-195.9h-183z"/>
+	</g>
+</svg>
