@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Gustavo Cerati",
+    "imagen": "https://i.scdn.co/image/ab6761610000e5ebee0456d8afc4c63dff458587",
+    "canciones": [
+      { "nombre": "Crimen", "imagen": "https://i.scdn.co/image/ab6761610000e5ebee0456d8afc4c63dff458587", "mp3url": "https://storage.googleapis.com/vkingcode/musica/tres%20acordes%20%20como%20soltarle%20la%20mano%20ala%20vida%20%20Eduard.mp3" },
+      { "nombre": "Canción 2", "imagen": "https://example.com/cancion2.jpg", "mp3url": "https://example.com/mp3/cancion2.mp3" }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Playlist 2",
+    "imagen": "https://example.com/imagen2.jpg",
+    "canciones": [
+      { "nombre": "Canción 3", "imagen": "https://example.com/cancion3.jpg", "mp3url": "https://example.com/mp3/cancion3.mp3" },
+      { "nombre": "Canción 4", "imagen": "https://example.com/cancion4.jpg", "mp3url": "https://example.com/mp3/cancion4.mp3" }
+    ]
+  }
+]
