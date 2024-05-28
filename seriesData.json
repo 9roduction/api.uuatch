@@ -9,13 +9,15 @@
         "id": 101,
         "name": "Piloto",
         "img": "https://image.tmdb.org/t/p/original/lkLKkO9lf3tcyQJhJL1tAuJ9sNB.jpg",
-        "description": "Descripción del episodio 1"
+        "description": "Descripción del episodio 1",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       },
       {
         "id": 102,
         "name": "Cat's in the Bag...",
         "img": "https://image.tmdb.org/t/p/original/lkLKkO9lf3tcyQJhJL1tAuJ9sNB.jpg",
-        "description": "Descripción del episodio 2"
+        "description": "Descripción del episodio 2",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
       }
     ]
   },
@@ -29,13 +31,15 @@
         "id": 201,
         "name": "Winter Is Coming",
         "img": "https://example.com/episode1.jpg",
-        "description": "Descripción del episodio 1"
+        "description": "Descripción del episodio 1",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       },
       {
         "id": 202,
         "name": "The Kingsroad",
         "img": "https://example.com/episode2.jpg",
-        "description": "Descripción del episodio 2"
+        "description": "Descripción del episodio 2",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
       }
     ]
   }
