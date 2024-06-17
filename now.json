@@ -3,16 +3,19 @@
   {
     "id": 1,
     "title": "Big Buck Bunny",
+    "description": "Harvey Specter contrata a Mike Ross. Un joven brillante que eligió un camino no tan brillate."
     "uri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   },
   {
     "id": 2,
     "title": "Elephant Dream",
+    "description": "Harvey Specter contrata a Mike Ross. Un joven brillante que eligió un camino no tan brillate."
     "uri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
   },
   {
     "id": 3,
     "title": "Tears of Steel",
+    "description": "Harvey Specter contrata a Mike Ross. Un joven brillante que eligió un camino no tan brillate."
     "uri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
   }
 ]
