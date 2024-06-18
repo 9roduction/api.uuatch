@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Breaking Bad",
-    "des": "Un profesor de química convertido en fabricante de metanfetamina.",
-    "img": "https://image.tmdb.org/t/p/original/lkLKkO9lf3tcyQJhJL1tAuJ9sNB.jpg",
+    "name": "Dahmer",
+    "des": "A lo largo de más de 10 años, el asesino convicto Jeffrey Dahmer acabó con la vida de 17 chicos y hombres jóvenes. ¿Pero cómo logró eludir a la justicia tanto tiempo?.",
+    "img": " https://image.tmdb.org/t/p/original/lerbYAaXFwNh0WpDEpYe5ba0SjK.jpg",
     "episodes": [
       {
         "id": 101,
