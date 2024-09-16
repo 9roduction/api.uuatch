@@ -2,8 +2,9 @@
 [
   {
     "id": 1,
-    "name": "Game of Thrones",
-    "des": "Intrigas políticas y batallas épicas en los Siete Reinos de Westeros.",
+    "name": "Dr. House",
+    "des": "El genio tiene efectos secundarios.",
+    "description": "En el Princenton Plainsboro de Nueva Jersey, el Dr. Gregory House, un singular genio de la medicina, se encarga de resolver casos como lo haría Sherlock Holmes. De forma astuta juega con la psicología de la Dra. Lisa Cuddy, su mejor amigo, el oncólogo James Wilson, y del resto de su equipo de trabajo.",
     "img": "https://image.tmdb.org/t/p/original/lkLKkO9lf3tcyQJhJL1tAuJ9sNB.jpg",
     "episodes": [
       {
@@ -26,6 +27,7 @@
     "id": 2,
     "name": "Suits",
     "des": "Si tu espalda está contra la pared, derrumba la maldita pared.",
+    "description": "Mike Ross, un joven traficante que queria ser abogado tiene la oportunidad de poder cambiar su vida al toparse con Harvey Specter, un exitoso abogado de una poderosa firma.",
     "img": "https://image.tmdb.org/t/p/original/rmIh7NHAfreZgVoX7hG3EHEKIe6.jpg",
     "episodes": [
       {
