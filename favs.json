@@ -2,7 +2,8 @@
   {
     "id": 1,
     "name": "Ted 2",
-    "description": "Los relampamigos regresan.",
+    "des": "Los relampamigos regresan.",
+    "description": "Ted y Tami-Lynn acaban de casarse y quieren tener un bebé. Sin embargo, cumplir su sueño no es fácil porque debe demostrar ante un tribunal que es una persona. Además, para fecundar a su esposa, Ted quiere que John lo ayuda a robar el esperma de un jugador de fútbol americano.",
     "img": "https://image.tmdb.org/t/p/original/w90JTDciwE0EWroWE2CuE1vOqlu.jpg",
     "episodes": [
       {
@@ -24,7 +25,8 @@
   {
     "id": 2,
     "name": "Dragon Ball Super: Broly",
-    "description": "Un viejo enemigo vuelve más fuerte que nunca",
+    "des": "Un viejo enemigo, y una nueva aventura.",
+    "description": "Goku y Vegeta encuentran a Broly, un guerrero Saiyajin. Pero, ¿cómo sobrevivió a la destrucción de su planeta y dónde estuvo todo ese tiempo? La situación empeora todavía más cuando Freezer vuelve al mundo de los vivos desde el infierno.",
     "img": "https://image.tmdb.org/t/p/original/8oBjC7INg8oiKR41bLNfMMmwQQG.jpg",
     "episodes": [
       {
@@ -45,9 +47,10 @@
   },
   {
     "id": 3,
-    "name": "Dragon Ball Super: Broly",
-    "description": "Un viejo enemigo vuelve más fuerte que nunca",
-    "img": "https://image.tmdb.org/t/p/original/8oBjC7INg8oiKR41bLNfMMmwQQG.jpg",
+    "name": "Merli: Sapere Aude",
+    "des": "Atrévete a saber",
+    "description": "Pasaron pocas semanas de la muerte de Merlí. Pol, el discípulo del profesor, no sabe qué hacer con su futuro. Su padre y Bruno lo animan a ir a la universidad y seguir el camino de su maestro.",
+    "img": "https://image.tmdb.org/t/p/original/xiC1mq3LEs7Jg9VxfctSxlqlWqX.jpg",
     "episodes": [
       {
         "id": 301,
