@@ -1,0 +1,55 @@
+
+[
+  {
+    "id": 1,
+    "name": "Intensamente",
+    "des": "Deja espacio para nuevas emociones.",
+    "img": "https://image.tmdb.org/t/p/original/uVu2fBc114un7F1GD76RBouWyBP.jpg",
+    "episodes": [
+      {
+        "id": 201,
+        "name": "Winter Is Coming",
+        "img": "https://example.com/episode1.jpg",
+        "description": "Descripción del episodio 1",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Deadpool & Wolverine",
+    "des": "Todos tenemos un ser de anclaje.",
+    "img": "https://image.tmdb.org/t/p/original/rLLA3CehQydC9RsSwIaA54gXNPp.jpg",
+    "episodes": [
+      {
+        "id": 101,
+        "name": "Piloto",
+        "img": "https://image.tmdb.org/t/p/original/lkLKkO9lf3tcyQJhJL1tAuJ9sNB.jpg",
+        "description": "Descripción del episodio 1",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "id": 102,
+        "name": "Cat's in the Bag...",
+        "img": "https://image.tmdb.org/t/p/original/lkLKkO9lf3tcyQJhJL1tAuJ9sNB.jpg",
+        "description": "Descripción del episodio 2",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bad Boys: Hasta La Muerte",
+    "des": "Los mejores de Miami son ahora los más buscados.",
+    "img": "https://image.tmdb.org/t/p/original/rwakNepsh0dXVcTtWKUVbDsSYYZ.jpg",
+    "episodes": [
+      {
+        "id": 202,
+        "name": "Winter Is Coming",
+        "img": "https://example.com/episode1.jpg",
+        "description": "Descripción del episodio 1",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      }
+    ]
+  }
+]
