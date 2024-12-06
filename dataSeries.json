@@ -9,15 +9,15 @@
     "episodes": [
       {
         "id": 201,
-        "name": "Winter Is Coming",
-        "img": "https://example.com/episode1.jpg",
+        "name": "▶ | Temporara 1 | Capitulo 1 | Winter Is Coming",
+        "img": "",
         "description": "Descripción del episodio 1",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       },
       {
         "id": 202,
-        "name": "The Kingsroad",
-        "img": "https://example.com/episode2.jpg",
+        "name": "▶ | Temporara 1 | Capitulo 2 | Summer Is Gone",
+        "img": "",
         "description": "Descripción del episodio 2",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
       }
@@ -31,18 +31,18 @@
     "img": "https://image.tmdb.org/t/p/original/mUe5NMpdsIgEAhxgyfCsAXvVZxk.jpg",
     "episodes": [
       {
-        "id": 101,
-        "name": "Piloto",
-        "img": "https://image.tmdb.org/t/p/original/lkLKkO9lf3tcyQJhJL1tAuJ9sNB.jpg",
+        "id": 203,
+        "name": "▶ | Temporara 1 | Capitulo 1 | Winter Is Coming",
+        "img": "",
         "description": "Descripción del episodio 1",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       },
       {
-        "id": 102,
-        "name": "Cat's in the Bag...",
-        "img": "https://image.tmdb.org/t/p/original/lkLKkO9lf3tcyQJhJL1tAuJ9sNB.jpg",
+        "id": 204,
+        "name": "▶ | Temporara 1 | Capitulo 2 | Summer Is Gone",
+        "img": "",
         "description": "Descripción del episodio 2",
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
       }
     ]
   }
