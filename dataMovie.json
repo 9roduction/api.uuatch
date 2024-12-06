@@ -1,0 +1,35 @@
+
+[
+  {
+    "id": 1,
+    "name": "El Día del Chacal ",
+    "des": "El cazador. Cazado.",
+    "description": "Un asesino solitario inigualable y muy esquivo, el Chacal, se gana la vida llevando a cabo éxitos por la tarifa más alta. Pero después de su último asesinato, se encuentra con su pareja en un tenaz oficial de inteligencia británico que comienza a localizar al Chacal en una emocionante persecución de gatos y ratones en toda Europa, dejando la destrucción a su paso.",
+    "img": "https://image.tmdb.org/t/p/original/v0z2jRhWWSiPmUEs0dfg7P04m6T.jpg",
+    "episodes": [
+      {
+        "id": 201,
+        "name": "Reproducir",
+        "img": "https://www.friidesigns.com/wp-content/uploads/2018/11/white-play-icon-png-6.png",
+        "description": "",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Cobra Kai",
+    "des": "Es hora de enfrentarse al mundo.",
+    "description": "Esta serie de secuelas de Karate Kid comienza 30 años después de los eventos del Torneo de Karate All Valley de 1984 y encuentra a Johnny Lawrence en la búsqueda de la redención al reabrir el infame dojo de karate Cobra Kai. Esto reaviva su vieja rivalidad con el exitoso Daniel LaRusso, quien ha estado trabajando para mantener el equilibrio en su vida sin el mentor Sr. Miyagi.",
+    "img": "https://image.tmdb.org/t/p/original/mUe5NMpdsIgEAhxgyfCsAXvVZxk.jpg",
+    "episodes": [
+      {
+        "id": 101,
+        "name": "Reproducir",
+        "img": "https://www.friidesigns.com/wp-content/uploads/2018/11/white-play-icon-png-6.png",
+        "description": "",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+    ]
+  }
+]
