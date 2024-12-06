@@ -9,16 +9,16 @@
     "episodes": [
       {
         "id": 201,
-        "name": "▶ Piloto",
+        "name": "▶  Piloto",
         "img": "",
-        "description": "Descripción del episodio 1",
+        "description": "Temporada 1. Capitulo 1",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       },
       {
         "id": 202,
-        "name": "▶ Lealtad",
+        "name": "▶  Lealtad",
         "img": "",
-        "description": "Descripción del episodio 2",
+        "description": "Temporada 1. Capitulo 2",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
       }
     ]
@@ -30,18 +30,18 @@
     "description": "Esta serie de secuelas de Karate Kid comienza 30 años después de los eventos del Torneo de Karate All Valley de 1984 y encuentra a Johnny Lawrence en la búsqueda de la redención al reabrir el infame dojo de karate Cobra Kai. Esto reaviva su vieja rivalidad con el exitoso Daniel LaRusso, quien ha estado trabajando para mantener el equilibrio en su vida sin el mentor Sr. Miyagi.",
     "img": "https://image.tmdb.org/t/p/original/mUe5NMpdsIgEAhxgyfCsAXvVZxk.jpg",
     "episodes": [
-      {
+       {
         "id": 203,
-        "name": "▶ Piloto",
+        "name": "▶  Piloto",
         "img": "",
-        "description": "Descripción del episodio 1",
+        "description": "Temporada 1. Capitulo 1",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       },
       {
         "id": 204,
-        "name": "▶ Lealtad",
+        "name": "▶  Lealtad",
         "img": "",
-        "description": "Descripción del episodio 2",
+        "description": "Temporada 1. Capitulo 2",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
       }
     ]
