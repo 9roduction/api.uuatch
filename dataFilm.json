@@ -2,25 +2,18 @@
 [
   {
     "id": 1,
-    "name": "Dr. House",
-    "des": "El genio tiene efectos secundarios.",
-    "description": "En el Princenton Plainsboro de Nueva Jersey, el Dr. Gregory House, un singular genio de la medicina, se encarga de resolver casos como lo haría Sherlock Holmes. De forma astuta juega con la psicología de la Dra. Lisa Cuddy, su mejor amigo, el oncólogo James Wilson, y del resto de su equipo de trabajo.",
-    "img": "https://image.tmdb.org/t/p/original/lkLKkO9lf3tcyQJhJL1tAuJ9sNB.jpg",
+    "name": "Venom 3",
+    "des": "Hasta que la muerte se separe.",
+    "description": "Eddie y Venom están huyendo. Cazados por sus dos mundos y con la red acercándose, el dúo se ve obligado a una decisión devastadora que derribará las cortinas de Venom y el último baile de Eddie."
+    "img": "https://image.tmdb.org/t/p/original/xdPzjH6lrJteMg2YrOEqki7ciZW.jpg",
     "episodes": [
       {
         "id": 201,
         "name": "Winter Is Coming",
-        "img": "https://example.com/episode1.jpg",
-        "description": "Descripción del episodio 1",
+        "img": "https://www.friidesigns.com/wp-content/uploads/2018/11/white-play-icon-png-6.png",
+        "description": "Reproducir",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       },
-      {
-        "id": 202,
-        "name": "The Kingsroad",
-        "img": "https://example.com/episode2.jpg",
-        "description": "Descripción del episodio 2",
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
-      }
     ]
   },
   {
