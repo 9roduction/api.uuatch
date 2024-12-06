@@ -9,14 +9,14 @@
     "episodes": [
       {
         "id": 201,
-        "name": "▶ | Temporara 1 | Capitulo 1 | Winter Is Coming",
+        "name": "▶ Piloto",
         "img": "",
         "description": "Descripción del episodio 1",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       },
       {
         "id": 202,
-        "name": "▶ | Temporara 1 | Capitulo 2 | Summer Is Gone",
+        "name": "▶ Lealtad",
         "img": "",
         "description": "Descripción del episodio 2",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
@@ -32,14 +32,14 @@
     "episodes": [
       {
         "id": 203,
-        "name": "▶ | Temporara 1 | Capitulo 1 | Winter Is Coming",
+        "name": "▶ Piloto",
         "img": "",
         "description": "Descripción del episodio 1",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       },
       {
         "id": 204,
-        "name": "▶ | Temporara 1 | Capitulo 2 | Summer Is Gone",
+        "name": "▶ Lealtad",
         "img": "",
         "description": "Descripción del episodio 2",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
