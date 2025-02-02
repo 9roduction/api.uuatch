@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Memory",
+    "des": "Action, Thriller, Crimen",
+    "description": "Alex, un sicario, se convierte en el objetivo de su organización por negarse a cumplir un trabajo. Mientras huye de ellos, el FBI y el servicio de inteligencia mexicano siguen sus pasos, alertados por el reguero de cadáveres que deja por donde va.",
+    "img": "https://image.tmdb.org/t/p/original/fr85YUUXLXWwyw8MpVMJ5P3v2MZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/kiH3KPWi7BaRMvdAigcwrUFViHl.jpg",
+    "episodes": [
+      {
+        "id": 101,
+        "name": "▶ Reproducir",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      }     
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Operación cerveza",
+    "des": "Bélico, Comedia",
+    "description": "En 1967, John Chickie Donohue deja Nueva York para localizar a sus compañeros del ejército en Vietnam y compartir unas cervezas con ellos",
+    "img": "https://image.tmdb.org/t/p/original/sqdAr7gZjiJyvyIoJOfRHnU2PtW.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/hvzf43G34IPCsdaCfLzb5GlwCos.jpg",
+    "episodes": [
+      {
+        "id": 201,
+        "name": "▶ Reproducir",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      }
+    ]
+  }
+]
