@@ -13,63 +13,63 @@
         "img": "",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x1.mp4"
-      }   
+      },
       {
         "id": 102,
         "name": "2. Infierno",
         "img": "",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x2.mp4"
-      }   
+      },
       {
         "id": 103,
         "name": "3. El hombre del Paraguas",
         "img": "",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x3.mp4"
-      }   
+      },
       {
         "id": 104,
         "name": "4. Trabajo en equipo",
         "img": "",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x4.mp4"
-      }   
+      },
       {
         "id": 105,
         "name": "5. Un mundo justo",
         "img": "",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x5.mp4"
-      }   
+      },
       {
         "id": 106,
         "name": "6. Gganbu",
         "img": "",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x6.mp4"
-      }   
+      },
       {
         "id": 107,
         "name": "7. VIPS",
         "img": "",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x7.mp4"
-      }   
+      },
       {
         "id": 108,
         "name": "8. Hombre fuerte",
         "img": "",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x8.mp4"
-      } 
+      },
       {
-        "id": 108,
-        "name": "9. Un dia de suerte",
+        "id": 109,
+        "name": "9. Un día de suerte",
         "img": "",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x9.mp4"
-      } 
+      }
     ]
   },
   {
@@ -88,7 +88,7 @@
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/peliculas/OperacionCerveza.mp4"
       }
     ]
-  }
+  },
   {
     "id": 3,
     "name": "Guerra de papás",
@@ -105,51 +105,51 @@
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/peliculas/GuerraDePapas.mp4"
       }
     ]
-  }
+  },
   {
     "id": 4,
     "name": "Scary Movie",
     "des": "Comedia, Suspenso",
-    "description": "Parodiando todas las peliculas y escenas del Hollywood, sin restriccion alguna.",
+    "description": "Parodiando todas las películas y escenas de Hollywood, sin restricción alguna.",
     "img": "https://image.tmdb.org/t/p/original/lRQiJXETkCnVVurHmglNvMXrZOx.jpg",
     "poster": "https://image.tmdb.org/t/p/original/wWtSlD2wkLnGzTnhQZDXGJV3mul.jpg",
     "episodes": [
       {
-        "id": 203,
+        "id": 204,
         "name": "▶ Reproducir",
         "img": "",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/peliculas/ScaryMovie.mp4"
       }
     ]
-  }
+  },
   {
     "id": 5,
     "name": "Intensamente 2",
-    "des": "Animacion, Drama",
-    "description": "Parodiando todas las peliculas y escenas del Hollywood, sin restriccion alguna.",
+    "des": "Animación, Drama",
+    "description": "Riley está a punto de convertirse en adolescente y sus emociones experimentan nuevos cambios.",
     "img": "https://image.tmdb.org/t/p/original/ySEfxnXsdZF75YYnjiKwTzzv4Ft.jpg",
     "poster": "https://image.tmdb.org/t/p/original/9Ur9damGzqkFnXFCSVVcvmYsTJU.jpg",
     "episodes": [
       {
-        "id": 203,
+        "id": 205,
         "name": "▶ Reproducir",
         "img": "",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/peliculas/Intensamente2.mp4"
       }
     ]
-  }
+  },
   {
     "id": 6,
     "name": "Shrek",
-    "des": "Animacion, Comedia",
-    "description": "La saga Shrek es una serie de películas animadas de comedia y fantasía producidas por DreamWorks Animation. Sigue las aventuras de Shrek, un ogro verde y gruñón que prefiere vivir en soledad en su pantano, pero cuyo destino cambia cuando se embarca en diversas misiones, acompañado por su inseparable amigo Burro y más tarde por Fiona, una princesa con un secreto especial.",
+    "des": "Animación, Comedia",
+    "description": "Un ogro llamado Shrek emprende un viaje para rescatar a la princesa Fiona y recuperar su pantano.",
     "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
     "poster": "https://image.tmdb.org/t/p/original/mZAwhoGH8isko20oE7xIQeXLe13.jpg",
     "episodes": [
       {
-        "id": 203,
+        "id": 206,
         "name": "▶ Reproducir",
         "img": "",
         "description": "",
