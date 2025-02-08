@@ -1,19 +1,75 @@
 [
   {
     "id": 1,
-    "name": "Memory",
-    "des": "Action, Thriller, Crimen",
-    "description": "Alex, un sicario, se convierte en el objetivo de su organización por negarse a cumplir un trabajo. Mientras huye de ellos, el FBI y el servicio de inteligencia mexicano siguen sus pasos, alertados por el reguero de cadáveres que deja por donde va.",
-    "img": "https://image.tmdb.org/t/p/original/fr85YUUXLXWwyw8MpVMJ5P3v2MZ.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/kiH3KPWi7BaRMvdAigcwrUFViHl.jpg",
+    "name": "El Juego Del Calamar",
+    "des": "2 Temporadas",
+    "description": "Cientos de personas con dificultades económicas aceptan una extraña invitación a un juego de supervivencia. Les espera un premio millonario, pero hay mucho en juego.",
+    "img": "https://image.tmdb.org/t/p/original/sXZhtWLo3fecavpDuOyJiayjt32.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/g5ekfnIC6cK7vS1Kt8wOCo9Mz8R.jpg",
     "episodes": [
       {
         "id": 101,
-        "name": "▶ Reproducir",
+        "name": "1. Luz roja, luz Verde",
         "img": "",
         "description": "",
-        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/peliculas/OperacionCerveza.mp4"
-      }     
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x1.mp4"
+      }   
+      {
+        "id": 102,
+        "name": "2. Infierno",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x2.mp4"
+      }   
+      {
+        "id": 103,
+        "name": "3. El hombre del Paraguas",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x3.mp4"
+      }   
+      {
+        "id": 104,
+        "name": "4. Trabajo en equipo",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x4.mp4"
+      }   
+      {
+        "id": 105,
+        "name": "5. Un mundo justo",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x5.mp4"
+      }   
+      {
+        "id": 106,
+        "name": "6. Gganbu",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x6.mp4"
+      }   
+      {
+        "id": 107,
+        "name": "7. VIPS",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x7.mp4"
+      }   
+      {
+        "id": 108,
+        "name": "8. Hombre fuerte",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x8.mp4"
+      } 
+      {
+        "id": 108,
+        "name": "9. Un dia de suerte",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x9.mp4"
+      } 
     ]
   },
   {
@@ -29,7 +85,75 @@
         "name": "▶ Reproducir",
         "img": "",
         "description": "",
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/peliculas/OperacionCerveza.mp4"
+      }
+    ]
+  }
+  {
+    "id": 3,
+    "name": "Guerra de papás",
+    "des": "Comedia, Drama",
+    "description": "Un hombre agradable e inseguro se ve obligado a competir por el cariño de los hijos de su esposa con el padre de los chicos cuando este regresa a la ciudad. Sus personalidades no podrían ser más diferentes: el padrastro es afable, el padre rebelde.",
+    "img": "https://image.tmdb.org/t/p/original/5hQSorAdBUTGhhxjKkbHwFmoBd8.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/tz4dVO1WysqIcoX9aDJc2RHDKk7.jpg",
+    "episodes": [
+      {
+        "id": 202,
+        "name": "▶ Reproducir",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/peliculas/GuerraDePapas.mp4"
+      }
+    ]
+  }
+  {
+    "id": 4,
+    "name": "Scary Movie",
+    "des": "Comedia, Suspenso",
+    "description": "Parodiando todas las peliculas y escenas del Hollywood, sin restriccion alguna.",
+    "img": "https://image.tmdb.org/t/p/original/lRQiJXETkCnVVurHmglNvMXrZOx.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/wWtSlD2wkLnGzTnhQZDXGJV3mul.jpg",
+    "episodes": [
+      {
+        "id": 203,
+        "name": "▶ Reproducir",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/peliculas/ScaryMovie.mp4"
+      }
+    ]
+  }
+  {
+    "id": 5,
+    "name": "Intensamente 2",
+    "des": "Animacion, Drama",
+    "description": "Parodiando todas las peliculas y escenas del Hollywood, sin restriccion alguna.",
+    "img": "https://image.tmdb.org/t/p/original/ySEfxnXsdZF75YYnjiKwTzzv4Ft.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/9Ur9damGzqkFnXFCSVVcvmYsTJU.jpg",
+    "episodes": [
+      {
+        "id": 203,
+        "name": "▶ Reproducir",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/peliculas/Intensamente2.mp4"
+      }
+    ]
+  }
+  {
+    "id": 6,
+    "name": "Shrek",
+    "des": "Animacion, Comedia",
+    "description": "La saga Shrek es una serie de películas animadas de comedia y fantasía producidas por DreamWorks Animation. Sigue las aventuras de Shrek, un ogro verde y gruñón que prefiere vivir en soledad en su pantano, pero cuyo destino cambia cuando se embarca en diversas misiones, acompañado por su inseparable amigo Burro y más tarde por Fiona, una princesa con un secreto especial.",
+    "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/mZAwhoGH8isko20oE7xIQeXLe13.jpg",
+    "episodes": [
+      {
+        "id": 203,
+        "name": "▶ Reproducir",
+        "img": "",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/peliculas/Shrek1.mp4"
       }
     ]
   }
