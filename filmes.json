@@ -10,63 +10,63 @@
       {
         "id": 101,
         "name": "1. Luz roja, luz Verde",
-        "img": "",
+        "img": "https://image.tmdb.org/t/p/original/vMFJS9LIUUAmQ1thq4vJ7iHKwRz.jpg",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x1.mp4"
       },
       {
         "id": 102,
         "name": "2. Infierno",
-        "img": "",
+        "img": "https://image.tmdb.org/t/p/original/uacNwki3PqXEFk9Pal9Ng5NwwAI.jpg",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x2.mp4"
       },
       {
         "id": 103,
         "name": "3. El hombre del Paraguas",
-        "img": "",
+        "img": "https://image.tmdb.org/t/p/original/xNtgrNEsMXvmRQQtcFuJdbXOjmP.jpg",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x3.mp4"
       },
       {
         "id": 104,
         "name": "4. Trabajo en equipo",
-        "img": "",
+        "img": "https://image.tmdb.org/t/p/original/9cUGOdLN4gmnf3b9ILArnJsJI8Q.jpg",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x4.mp4"
       },
       {
         "id": 105,
         "name": "5. Un mundo justo",
-        "img": "",
+        "img": "https://image.tmdb.org/t/p/original/2pE9f6drlF7y9rwUw6dh1w6jF5M.jpg",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x5.mp4"
       },
       {
         "id": 106,
         "name": "6. Gganbu",
-        "img": "",
+        "img": "https://image.tmdb.org/t/p/original/cohCCQzTe2ncdQczJDUsO0vzxPR.jpg",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x6.mp4"
       },
       {
         "id": 107,
         "name": "7. VIPS",
-        "img": "",
+        "img": "https://image.tmdb.org/t/p/original/4pVfv4HaM5QpFJTHm19p2UI0StN.jpg",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x7.mp4"
       },
       {
         "id": 108,
         "name": "8. Hombre fuerte",
-        "img": "",
+        "img": "https://image.tmdb.org/t/p/original/lOgFVmykN9qlpAoiBSIV2lu7XCS.jpg",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x8.mp4"
       },
       {
         "id": 109,
         "name": "9. Un día de suerte",
-        "img": "",
+        "img": "https://image.tmdb.org/t/p/original/sKeQbHeEUQLyoSdopa0QXm604cz.jpg",
         "description": "",
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/squidgame/El_juego_del_calamar_1x9.mp4"
       }
