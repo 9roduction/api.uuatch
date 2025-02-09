@@ -156,5 +156,39 @@
         "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/peliculas/Shrek1.mp4"
       }
     ]
+  },
+  {
+    "id": 7,
+    "name": "Dr. House",
+    "des": "8 temporadas",
+    "description": "En el Princenton Plainsboro de Nueva Jersey, el Dr. Gregory House, un singular genio de la medicina, se encarga de resolver casos como lo haría Sherlock Holmes. De forma astuta juega con la psicología de la Dra. Lisa Cuddy, su mejor amigo, el oncólogo James Wilson, y del resto de su equipo de trabajo.",
+    "img": "https://image.tmdb.org/t/p/original/lkvhReTBZ2Ksl0Dl5Oplsf6UYkF.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/hcEVGp2B2wChpMoo8RqCLWkhoUK.jpg",
+    "episodes": [
+      {
+        "id": 207,
+        "name": "1. Piloto",
+        "img": "https://image.tmdb.org/t/p/original/zPQe0nh81i8rTpJej8IAAIBo48i.jpg",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/series/house/DrHouse1x1.mp4"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Suits",
+    "des": "9 temporadas",
+    "description": "La historia sigue a Harvey Specter, un abogado exitoso y carismático de Nueva York, y a Mike Ross, un joven brillante con memoria fotográfica que, a pesar de no haber asistido a la facultad de derecho, es contratado por Harvey como su asociado en el prestigioso bufete Pearson Hardman",
+    "img": "https://image.tmdb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/n0bGqpX5jZaxG3vvw4Gq5InvxFF.jpg",
+    "episodes": [
+      {
+        "id": 208,
+        "name": "1. Piloto",
+        "img": "https://image.tmdb.org/t/p/original/2GmJD80FGtMIcca1UuLIIuIm2c1.jpg",
+        "description": "",
+        "videoUrl": "https://uuatch.nyc3.digitaloceanspaces.com/filmes/peliculas/Shrek1.mp4"
+      }
+    ]
   }
 ]
