@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Mercado Pago",
-    "url": "link.mercadopago.com.ar/uuatch",
+    "url": "https://link.mercadopago.com.ar/uuatch",
     "image": "https://raw.githubusercontent.com/9roduction/api.uuatch/refs/heads/main/mercadopago.png",
     "text": "Donar con MercadoPago",
     "visible": true
