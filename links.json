@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Mercado Pago",
-    "url": "https://www.mercadopago.com.ar",
+    "url": "link.mercadopago.com.ar/uuatch",
     "image": "https://raw.githubusercontent.com/9roduction/api.uuatch/refs/heads/main/mercadopago.png",
     "text": "Donar con MercadoPago",
     "visible": true
@@ -10,7 +10,7 @@
   {
     "id": "2",
     "name": "PayPal",
-    "url": "https://www.paypal.com",
+    "url": "https://paypal.me/uuatch",
     "image": "https://raw.githubusercontent.com/9roduction/api.uuatch/refs/heads/main/paypal.png",
     "text": "Donar con PayPal",
     "visible": true
