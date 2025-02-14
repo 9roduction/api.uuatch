@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Mercado Pago",
+    "url": "https://www.mercadopago.com.ar",
+    "image": "https://github.com/9roduction/api.uuatch/blob/main/mercadopago.png",
+    "text": "Donar con MercadoPago",
+    "visible": true
+  },
+  {
+    "id": "2",
+    "name": "PayPal",
+    "url": "https://www.paypal.com",
+    "image": "https://github.com/9roduction/api.uuatch/blob/main/paypal.png",
+    "text": "Donar con PayPal",
+    "visible": true
+  },
+]
