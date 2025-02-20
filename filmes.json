@@ -262,23 +262,6 @@
     ]
   },
   {
-    "id": 17,
-    "name": "DBS: Broly",
-    "des": "Accion, Animacion",
-    "description": "Goku, Vegeta y sus amigos se enfrentan a Broly, un poderoso Saiyajin que fue exiliado a un planeta lejano cuando era un niño. Tras la destrucción del planeta Vegeta por parte de Freezer, Broly creció en un ambiente salvaje, alimentando su increíble poder de manera incontrolada.",
-    "img": "https://image.tmdb.org/t/p/original/wVSkueQauPUHB3wVFSGDLDMVhGj.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/gC84WYEPqgXoOtP2GyO0jyssUGc.jpg",
-    "episodes": [
-      {
-        "id": 117,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
-        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p017.mp4"
-      }
-    ]
-  },
-  {
     "id": 18,
     "name": "Rapidos Y Furiosos",
     "des": "Accion, Drama",
@@ -288,31 +271,45 @@
     "episodes": [
       {
         "id": 118,
-        "name": "▶ Reproducir",
+        "name": "Rapidos Y Furiosos 6",
         "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
-        "description": "Rapidos Y Furiosos 6",
+        "description": "",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p018.mp4"
       },
       {
         "id": 119,
-        "name": "▶ Reproducir",
+        "name": "Rapidos Y Furiosos 4",
         "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
-        "description": "Rapidos Y Furiosos 4",
+        "description": "",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p019.mp4"
       },
       {
         "id": 120,
-        "name": "▶ Reproducir",
+        "name": "Rapidos Y Furiosos 5",
         "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
-        "description": "Rapidos Y Furiosos 5",
+        "description": "",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p020.mp4"
       },
       {
         "id": 124,
-        "name": "▶ Reproducir",
+        "name": "Rapidos Y Furiosos 7",
         "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
-        "description": "Rapidos Y Furiosos 7",
+        "description": "",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p024.mp4"
+      },
+      {
+        "id": 147,
+        "name": "Rapidos Y Furiosos 1",
+        "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
+        "description": "",
+        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p047.mp4"
+      },
+      {
+        "id": 148,
+        "name": "Rapidos Y Furiosos: Tokyo Drift",
+        "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
+        "description": "",
+        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p047.mp4"
       },
     ]
   },
@@ -522,163 +519,163 @@
 },
 {
   "id": 34,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Yo antes de tí",
+  "des": "Romance",
+  "description": "Louisa Clark, una joven de una familia trabajadora que consigue un empleo como cuidadora de Will Traynor, un hombre adinerado que quedó tetrapléjico tras un accidente. Al principio, Will es un hombre amargado y sarcástico debido a su nueva situación, mientras que Louisa es una chica alegre, pero un tanto desorganizada y sin grandes ambiciones.",
+  "img": "https://image.tmdb.org/t/p/original/vVIDt9FjuTLbXeuc2mJRYnqMh1F.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/cQEaKXHR6cfRoA54mLLtRGzIsaA.jpg",
   "episodes": [
     {
       "id": 134,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p034.mp4"
     }
   ]
 },
 {
   "id": 35,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "El papa del vaticano",
+  "des": "Terror, Suspenso",
+  "description": "Gabriele Amorth, quien fue uno de los exorcistas más conocidos del Vaticano. La trama se centra en el padre Amorth, interpretado por Russell Crowe, quien enfrenta a un demonio extremadamente poderoso que ha poseído a un joven. A lo largo de la película, Amorth se ve envuelto en una serie de confrontaciones sobrenaturales mientras trata de salvar a la víctima y desvelar un misterio más grande relacionado con el Vaticano y los poderes oscuros. La historia mezcla elementos de exorcismo y conspiración dentro de una atmósfera tensa y de suspense.",
+  "img": "https://image.tmdb.org/t/p/original/2z1PVqfzvT4KjPNpQRfy5HpsyIW.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/uhIFqaSZKHf0nTj1kCyihDttujU.jpg",
   "episodes": [
     {
       "id": 135,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p035.mp4"
     }
   ]
 },
 {
   "id": 36,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Rendirse jamas 3",
+  "des": "Accion",
+  "description": "Casey (interpretado por Michael Jai White), un luchador de MMA retirado, se encuentra atrapado en una vida de recuerdos y arrepentimientos. Después de recibir una invitación para participar en un torneo de artes marciales, decide regresar al ring y enfrentarse a sus propios demonios.",
+  "img": "https://image.tmdb.org/t/p/original/mjt23G7XNCoXP71Mdi9fpKNYNY0.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/kZLQWdIMdCysmqGR25xsW961ABi.jpg",
   "episodes": [
     {
       "id": 136,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p036.mp4"
     }
   ]
 },
 {
   "id": 37,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Sangre, sudor, y gloria",
+  "des": "Accion, Drama",
+  "description": "Daniel Lugo (interpretado por Wahlberg), es un culturista obsesionado con el éxito material, quien recluta a un par de compañeros de gimnasio para llevar a cabo su plan criminal. Sin embargo, lo que comienza como una idea sencilla de secuestro y extorsión se convierte rápidamente en una serie de desastres y complicaciones que llevan a los personajes a situaciones cada vez más absurdas y peligrosas.",
+  "img": "https://image.tmdb.org/t/p/original/nNLyJiOZCPgOaHwiX72ii12asO1.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/73Ridh5DhGBmKAiwq8gy3IbtthT.jpg",
   "episodes": [
     {
       "id": 137,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p037.mp4"
     }
   ]
 },
 {
   "id": 38,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Pinocho",
+  "des": "Animacion",
+  "description": "Geppetto, un hombre solitario, crea a Pinocho como una forma de llenar el vacío dejado por la pérdida de su hijo. A lo largo de la historia, Pinocho enfrenta diversas pruebas y aprende importantes lecciones sobre la vida, la honestidad y el amor, mientras Geppetto busca protegerlo de los peligros que enfrenta el muñeco.",
+  "img": "https://image.tmdb.org/t/p/original/1yIM2QL0qLzWMjTGuMX12yZnBtb.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/hNou5JVGr5vj4ZRScLDuX6xMPjh.jpg",
   "episodes": [
     {
       "id": 138,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p038.mp4"
     }
   ]
 },
 {
   "id": 39,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Barbie",
+  "des": "Comedia",
+  "description": "Barbie, quien vive en un mundo idealizado y perfecto en Barbieland, un lugar lleno de versiones de diferentes Barbies y Kens. Sin embargo, Barbie comienza a cuestionar su existencia cuando se enfrenta a una crisis personal, sintiendo que no encaja en el molde perfecto que se espera de ella. Esto la lleva a un viaje fuera de Barbieland, hacia el mundo real, donde enfrenta situaciones que desafían su visión del mundo y la identidad que siempre ha tenido.",
+  "img": "https://image.tmdb.org/t/p/original/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/8XXUELxpH8abOjqa6kg69UXpvDW.jpg",
   "episodes": [
     {
       "id": 139,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p039.mp4"
     }
   ]
 },
 {
   "id": 40,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Samaritan",
+  "des": "Accion",
+  "description": "La historia se desarrolla en una ciudad en decadencia, donde el protagonista, un hombre llamado Joe Smith, lleva una vida discreta y alejada de la sociedad. Joe es un hombre solitario que oculta un gran secreto: en su juventud, fue un superhéroe conocido como Samaritan, que luchaba contra el crimen y que desapareció misteriosamente después de una gran batalla. La trama comienza cuando un joven llamado Sam (interpretado por Javon Walton) descubre la identidad secreta de Joe y trata de convencerlo de que vuelva a ser el héroe que una vez fue, ya que la ciudad está cayendo en el caos y necesita alguien para detener a un villano peligroso. A lo largo de la película, Joe se enfrenta a dilemas sobre su pasado y su deseo de redención, mientras trata de proteger al joven y enfrentar sus propios temores y limitaciones.",
+  "img": "https://image.tmdb.org/t/p/original/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/cYpCXPkwJ1HERZM6C7MLkiDZEoS.jpg",
   "episodes": [
     {
       "id": 140,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p040.mp4"
     }
   ]
 },
 {
   "id": 41,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "El Rey Leon",
+  "des": "Animacion",
+  "description": "Simba, un joven león heredero al trono del Reino de la Sabana. Tras la trágica muerte de su padre, Mufasa, a manos de su malvado tío Scar, Simba huye, sintiéndose culpable por lo sucedido. A lo largo de los años, Simba vive en el exilio, donde conoce a nuevos amigos, Timón y Pumba, y adopta su despreocupada filosofía de vida, Hakuna Matata. Sin embargo, cuando descubre que su hogar está siendo destruido bajo el gobierno tiránico de Scar, Simba decide regresar para reclamar su legítimo lugar como rey. Con la ayuda de sus amigos y el consejo del sabio Rafiki, Simba enfrenta sus miedos y acepta su destino, restaurando el equilibrio y la paz en el reino. La película explora temas de superación personal, responsabilidad y el ciclo de la vida.",
+  "img": "https://image.tmdb.org/t/p/original/nPe31wxhbvEm09pnJoKEqly8wFM.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
   "episodes": [
     {
       "id": 141,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p041.mp4"
     }
   ]
 },
 {
   "id": 42,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Enredados",
+  "des": "Animacion",
+  "description": "Rapunzel (voz de Mandy Moore), quien tiene un largo cabello mágico que tiene el poder de sanar heridas y mantener la juventud. Rapunzel fue secuestrada cuando era un bebé por una malvada bruja llamada Madre Gothel (voz de Donna Murphy), quien la mantiene prisionera en una torre aislada, usándola para su propio beneficio.Un día, un ladrón llamado Flynn Rider (voz de Zachary Levi) se esconde en la torre de Rapunzel, y ella lo captura, exigiendo que la lleve al mundo exterior para ver las luces flotantes que se lanzan cada año en su cumpleaños. Juntos, emprenden una aventura llena de acción, comedia y emoción, mientras Rapunzel descubre la verdad sobre su pasado y enfrenta los oscuros secretos de Madre Gothel.",
+  "img": "https://image.tmdb.org/t/p/original/z5kvXWek4smCyeWBDJQkT5sLc9T.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/6BdcYbQtYlh5XmuSnwHZxYnKIxo.jpg",
   "episodes": [
     {
       "id": 142,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p042.mp4"
     }
   ]
 },
 {
   "id": 43,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
+  "name": "Ted",
+  "des": "Comedia",
+  "description": " John Bennett (interpretado por Mark Wahlberg), un hombre que, cuando era niño, hizo realidad su deseo de tener un oso de peluche que cobrara vida. El resultado fue Ted, un oso parlante y desinhibido que se convierte en el mejor amigo de John. Sin embargo, a medida que pasan los años, Ted sigue siendo una figura inmadura y problemática, lo que genera conflictos en la vida adulta de John, especialmente con su novia, Lori (interpretada por Mila Kunis), quien no aprueba la relación entre John y el oso.",
+  "img": "https://image.tmdb.org/t/p/original/yaOTp446NGXY1iaHVe3OFS8gwP.jpg",
   "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
   "episodes": [
     {
@@ -686,15 +683,15 @@
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p043.mp4"
     }
   ]
 },
 {
   "id": 44,
-  "name": "",
-  "des": "",
-  "description": "",
+  "name": "Masacre en Texas",
+  "des": "Terror, Suspenso",
+  "description": "un grupo de jóvenes emprendedores que llegan a una pequeña ciudad en Texas con la intención de revitalizarla, pero descubren que Leatherface sigue vivo y escondido después de tantos años. Cuando estos jóvenes invaden el espacio de Leatherface, se desata una serie de eventos sangrientos y terroríficos mientras luchan por sobrevivir al asesino que acecha en las sombras.",
   "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
   "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
   "episodes": [
@@ -703,109 +700,58 @@
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
-    }
-  ]
-},
-{
-  "id": 45,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
-  "episodes": [
-    {
-      "id": 145,
-      "name": "▶ Reproducir",
-      "img": "",
-      "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p043.mp4"
     }
   ]
 },
 {
   "id": 46,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Soldado de elite",
+  "des": "Accion",
+  "description": " Jonas Blane, un miembro experimentado y líder del equipo, quien debe lidiar con las dificultades de mantener el secreto sobre su trabajo y las tensiones familiares que esto genera. A lo largo de la serie, los miembros del equipo realizan operaciones encubiertas en todo el mundo, enfrentándose a terroristas, peligros internacionales y a menudo poniendo sus vidas en riesgo.",
+  "img": "https://image.tmdb.org/t/p/original/uboar85WH92Q5Ct2Y0B2YEdYRNF.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/HaBoob5Oyu4cSIqJNCvVXAsrfQ.jpg",
   "episodes": [
     {
       "id": 146,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
-    }
-  ]
-},
-{
-  "id": 47,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
-  "episodes": [
-    {
-      "id": 147,
-      "name": "▶ Reproducir",
-      "img": "",
-      "description": "",
-      "videoUrl": ""
-    }
-  ]
-},
-{
-  "id": 48,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
-  "episodes": [
-    {
-      "id": 148,
-      "name": "▶ Reproducir",
-      "img": "",
-      "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p043.mp4"
     }
   ]
 },
 {
   "id": 49,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Bajo la misma estrella",
+  "des": "Romance",
+  "description": "Hazel Grace Lancaster (interpretada por Shailene Woodley), una adolescente que lucha contra el cáncer de tiroides que se ha diseminado a sus pulmones. Debido a su enfermedad, Hazel depende de un tanque de oxígeno para respirar y enfrenta una vida limitada por la enfermedad, aunque mantiene una actitud positiva. Hazel asiste a un grupo de apoyo para pacientes de cáncer, donde conoce a Augustus Waters (interpretado por Ansel Elgort), un joven carismático y en remisión de cáncer osteosarcoma. Aunque inicialmente su relación es complicada, los dos se enamoran profundamente mientras comparten sus pensamientos, su amor por la literatura y sus sueños, especialmente después de que Hazel le comparte su libro favorito, Un amor para siempre, escrito por un autor recluido llamado Peter Van Houten.",
+  "img": "https://image.tmdb.org/t/p/original/wWtK2Kg4afUaQ2LVzQKsdcvJnLa.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/22l5YKpMHBeh0o4uHQ079Y19PPg.jpg",
   "episodes": [
     {
       "id": 149,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p043.mp4"
     }
   ]
 },
 {
   "id": 50,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Stú",
+  "des": "Drama",
+  "description": "Stuart Long era un exboxeador que luchaba con problemas personales, incluyendo el alcoholismo y la falta de dirección en su vida. Sin embargo, después de sufrir una serie de eventos transformadores, incluyendo un accidente que lo lleva a enfrentarse a su propia mortalidad, Stuart encuentra un nuevo propósito en la vida y decide convertirse en sacerdote. A lo largo de la película, se muestra su lucha interna, los desafíos que enfrenta debido a su pasado, y la aceptación de su vocación religiosa.",
+  "img": "https://image.tmdb.org/t/p/original/th1E0aTImp89UzaCTCnAkLzSriH.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/fD7Xp62sx9q6aDYcOiyHIce1yJ2.jpg",
   "episodes": [
     {
       "id": 150,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p050.mp4"
     }
   ]
 },
