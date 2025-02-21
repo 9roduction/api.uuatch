@@ -756,333 +756,265 @@
   ]
 },
 {
-  "id": 51,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
-  "episodes": [
-    {
-      "id": 151,
-      "name": "▶ Reproducir",
-      "img": "",
-      "description": "",
-      "videoUrl": ""
-    }
-  ]
-},
-{
-  "id": 52,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
-  "episodes": [
-    {
-      "id": 152,
-      "name": "▶ Reproducir",
-      "img": "",
-      "description": "",
-      "videoUrl": ""
-    }
-  ]
-},
-{
-  "id": 53,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
-  "episodes": [
-    {
-      "id": 153,
-      "name": "▶ Reproducir",
-      "img": "",
-      "description": "",
-      "videoUrl": ""
-    }
-  ]
-},
-{
   "id": 54,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "El lobo de Wall Street",
+  "des": "Comedia",
+  "description": "Jordan Belfort desde sus humildes comienzos como un joven aspirante a corredor de bolsa, hasta su meteórico ascenso en la bolsa de valores con su propia firma, Stratton Oakmont. A lo largo de la película, Jordan y su equipo se dedican a realizar prácticas fraudulentas y manipular el mercado para obtener enormes ganancias, mientras disfrutan de una vida llena de lujos, fiestas desenfrenadas, drogas y excesos de todo tipo. Sin embargo, el estilo de vida hedonista y la falta de escrúpulos de Jordan lo llevan eventualmente a una caída. El gobierno comienza a investigar sus prácticas ilegales, y la película explora los efectos de la corrupción, el poder y la avaricia, mientras Belfort enfrenta las consecuencias de sus acciones.",
+  "img": "https://image.tmdb.org/t/p/original/qTu16kpDi8rXQ5co7K5i2sd3xj.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/r326kGBSeX49TnyTyyw3nJRqYjv.jpg",
   "episodes": [
     {
       "id": 154,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
-    }
-  ]
-},
-{
-  "id": 55,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
-  "episodes": [
-    {
-      "id": 155,
-      "name": "▶ Reproducir",
-      "img": "",
-      "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p054.mp4"
     }
   ]
 },
 {
   "id": 56,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Uncharted",
+  "des": "Accion",
+  "description": "La historia comienza con Nathan, quien, después de haber sido un huérfano, es reclutado por Sully, un experimentado cazador de tesoros, para buscar un tesoro de valor incalculable. Juntos viajan por el mundo enfrentando traiciones, luchando contra rivales peligrosos, como el antagonista Moncada (interpretado por Antonio Banderas), y resolviendo intrincados acertijos y desafíos para llegar al tesoro antes que ellos.",
+  "img": "https://image.tmdb.org/t/p/original/77dlklwA1VJOLCqIhhmkmS39BLH.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/cTTggc927lEPCMsWUsdugSj6wAY.jpg",
   "episodes": [
     {
       "id": 156,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p056.mp4"
     }
   ]
 },
 {
   "id": 57,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Joker",
+  "des": "Drama",
+  "description": "Arthur Fleck es un hombre con problemas mentales que trabaja como payaso de calle, pero su vida se ve marcada por la pobreza, el rechazo social, el abuso y la falta de apoyo emocional. A medida que enfrenta una serie de humillaciones y crisis personales, su salud mental se deteriora, lo que lo lleva a una espiral de violencia y desesperación. En su lucha por encontrar una identidad propia y ser reconocido en una sociedad que lo margina, Arthur se transforma gradualmente en el Joker, el villano caótico y aterrador que desafía el orden establecido.",
+  "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/r0kZNywAeN6Ar75rxDqLlTP5RiJ.jpg",
   "episodes": [
     {
       "id": 157,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p057.mp4"
     }
   ]
 },
 {
   "id": 58,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Venom",
+  "des": "Accion, Comedia",
+  "description": "Eddie Brock (Tom Hardy) se convierte en el anfitrión del simbiótico Venom, quien tiene increíbles poderes y una naturaleza violenta. Al principio, Eddie lucha por controlar la relación con Venom, que le otorga habilidades extraordinarias, como fuerza sobrehumana y la capacidad de cambiar su forma física. Juntos, deben enfrentar a Carlton Drake (Riz Ahmed), un ejecutivo corporativo que dirige la empresa Life Foundation, que experimenta con los simbióticos en busca de poder, lo que amenaza con destruir la ciudad.",
+  "img": "https://image.tmdb.org/t/p/original/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/h3EG2tfaCukETiibpLhQeTk1lwR.jpg",
   "episodes": [
     {
       "id": 158,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p058.mp4"
     }
   ]
 },
 {
   "id": 59,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Amigos de armas",
+  "des": "Accion, Comedia",
+  "description": "David es un hombre joven que, al principio, tiene una vida tranquila, trabajando como masajista, pero se ve envuelto en el mundo del tráfico de armas cuando su amigo de la infancia, Efraim, le ofrece unirse a su empresa. Efraim es un ambicioso empresario que, a través de contratos con el gobierno de los Estados Unidos, vende armas a países en conflicto. A medida que David se involucra más en el negocio, se da cuenta de las implicaciones morales de lo que están haciendo, pero también se siente seducido por el dinero y el estilo de vida extravagante que conlleva.",
+  "img": "https://image.tmdb.org/t/p/original/jwBcQXp7WgYgrcANpnuLCCfLpkK.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/dTFJlBGWSqW6rMiawQidMPxleTd.jpg",
   "episodes": [
     {
       "id": 159,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p059.mp4"
     }
   ]
 },
 {
   "id": 60,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Musica, Amigos, Y Fiesta",
+  "des": "Drama, Comedia",
+  "description": "Cole Carter (interpretado por Zac Efron), un joven DJ de Los Ángeles que sueña con convertirse en un productor de música electrónica de renombre. Cole y su grupo de amigos luchan por salir adelante en un mundo lleno de fiestas, música y excesos, pero él tiene la ambición de alcanzar el éxito profesional y encontrar su verdadero camino. A lo largo de la película, Cole se encuentra con James Reed (interpretado por Wes Bentley), un DJ exitoso y mentor que le ayuda a entender el mundo de la música electrónica, pero también le enseña que el éxito puede tener un alto precio. Además, Cole se enamora de la novia de James, Sophie (interpretada por Emily Ratajkowski), lo que complica aún más su vida personal y profesional.",
+  "img": "https://image.tmdb.org/t/p/original/4iUAMj3iieLAVyKSkhOy0rSAomV.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/poNXP9N0bYLuDdNWpQzHCfavkYp.jpg",
   "episodes": [
     {
       "id": 160,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p060.mp4"
     }
   ]
 },
 {
   "id": 61,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Zootopia",
+  "des": "Animacion",
+  "description": "Judy Hopps (voz de Ginnifer Goodwin), una coneja que se convierte en la primera oficial de policía en Zootopia, una ciudad donde coexisten animales de diferentes hábitats. A pesar de su pequeño tamaño y la discriminación que enfrenta por ser una coneja, Judy está determinada a demostrar su valía. Junto a un zorro estafador llamado Nick Wilde (voz de Jason Bateman), Judy se ve involucrada en la investigación de un misterioso caso de desapariciones de animales en la ciudad. A lo largo de su aventura, los dos deben aprender a trabajar juntos, dejando atrás sus prejuicios y diferencias para resolver el caso.",
+  "img": "https://image.tmdb.org/t/p/original/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/3aAV0sWY3NowjZP0OwWTIV4Z7vB.jpg",
   "episodes": [
     {
       "id": 161,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p061.mp4"
     }
   ]
 },
   {
   "id": 62,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Liga de las mascotas",
+  "des": "Animacion",
+  "description": "Krypto, el perro de Superman, quien tiene poderes similares a los de su dueño, y a una banda de mascotas con habilidades especiales que deben unirse para salvar a sus dueños y el mundo de una amenaza malvada. La historia comienza cuando Superman y los demás miembros de la Liga de la Justicia son secuestrados por un villano llamado Lulu (una cerdita genéticamente modificada), y Krypto se ve obligado a formar un equipo de animales con habilidades especiales para rescatar a sus dueños. Entre las mascotas se encuentran Ace, el perro con habilidades de combate; PB, una cerdita que puede cambiar de tamaño; Merton, una tortuga con velocidad sobrehumana; y Chip, un conejillo de indias con poderes eléctricos. Juntos, deben aprender a trabajar en equipo para detener a Lulu y salvar a sus dueños.",
+  "img": "https://image.tmdb.org/t/p/original/8RNFUMjIyqvqz2OiGSA4493YLc6.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/p8XnVA7zWZu7ZJsM1Cm9l7S9IH8.jpg",
   "episodes": [
     {
       "id": 162,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p062.mp4"
     }
   ]
 },
 {
   "id": 63,
-  "name": "",
-  "des": "",
-  "description": "",
+  "name": "Operacion Cerveza",
+  "des": "Comedia, Drama",
+  "description": "John Donohue (interpretado por Zac Efron), un joven de Nueva York durante la Guerra de Vietnam. En un intento por apoyar a sus amigos que están luchando en el conflicto, Chick decide llevarles personalmente cervezas a la zona de combate, como un gesto de amistad y lealtad. Lo hace como una especie de acto simbólico de apoyo moral, pero lo que comienza como una misión algo inocente y un tanto alocada, pronto se convierte en una aventura llena de desafíos, peligros y descubrimientos inesperados. A medida que Chick avanza por la peligrosa zona de guerra, la película toca temas de la amistad, la lealtad, los horrores de la guerra y las realidades que los soldados enfrentan. La historia mezcla comedia con momentos de reflexión profunda sobre los sacrificios que los hombres hicieron durante la guerra.",
   "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/2QrRSyLw3WQT6UGdFMUXVnXFbgN.jpg",
   "episodes": [
     {
       "id": 163,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p063.mp4"
     }
   ]
 },
 {
   "id": 64,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Paul",
+  "des": "Comedia",
+  "description": " Graeme (Simon Pegg) y Clive (Nick Frost), quienes viajan por los Estados Unidos realizando un tour de lugares relacionados con extraterrestres y fenómenos paranormales. Durante su aventura, se encuentran con Paul, un alienígena travieso y sarcástico (voz de Seth Rogen), quien ha estado viviendo en secreto en la Tierra desde que fue capturado por el gobierno de los Estados Unidos. Después de escapar de una instalación militar secreta, Paul se une a Graeme y Clive en su viaje, mientras intentan evitar ser capturados nuevamente por el FBI.",
+  "img": "https://image.tmdb.org/t/p/original/e57pNjhWbRos9BTvgeUYUzB8VfO.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/4ArHBAp8Sf2BObxLYyh0ejLff2b.jpg",
   "episodes": [
     {
       "id": 164,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p064.mp4"
     }
   ]
 },
 {
   "id": 65,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Peter Rabbit",
+  "des": "Comedia",
+  "description": "Peter Rabbit (voz de James Corden), un conejo que vive en el jardín de la casa de un señor llamado McGregor (Domhnall Gleeson). Después de que el viejo McGregor muere, el nuevo propietario, Thomas McGregor (interpretado por Domhnall Gleeson), llega al lugar, y rápidamente entra en conflicto con Peter y sus amigos: Benjamin Bunny (Colin Moody), las conejas Flopsy, Mopsy y Cottontail, entre otros. A lo largo de la película, Peter y sus amigos hacen todo lo posible por proteger su hogar y evitar que el nuevo McGregor haga de las suyas.",
+  "img": "https://image.tmdb.org/t/p/original/bRDgMEikWMK3AJUJw0qqSJsWRAd.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/dM3XlmfTBlVMA3YIh0ZAAXZCv6s.jpg",
   "episodes": [
     {
       "id": 165,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p065.mp4"
     }
   ]
 },
 {
   "id": 66,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Robocop",
+  "des": "Accion",
+  "description": "Alex Murphy (interpretado por Joel Kinnaman), un oficial de policía de Detroit que queda gravemente herido tras un atentado en su contra. Para salvar su vida, la corporación OmniCorp decide convertirlo en RoboCop, una mezcla de humano y máquina, al implantarle un exoesqueleto robótico avanzado que lo convierte en una máquina de combate, pero todavía con restos de su humanidad. Mientras Alex comienza a luchar contra el crimen, también lucha por recuperar sus recuerdos y su identidad humana.",
+  "img": "https://image.tmdb.org/t/p/original/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/n8wGVOG06tBT4sBLijoikTTLIge.jpg",
   "episodes": [
     {
       "id": 166,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p066.mp4"
     }
   ]
 },
 {
   "id": 67,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Spencer",
+  "des": "Drama",
+  "description": "La película se enfoca en la angustia emocional de Diana mientras enfrenta las presiones de la vida en la monarquía y su difícil matrimonio con el príncipe Carlos. A lo largo del fin de semana, Diana comienza a cuestionar su futuro en la familia real, su identidad personal y su relación con sus hijos, los príncipes William y Harry. El título Spencer hace referencia al apellido de soltera de Diana, destacando su conexión con su vida antes de convertirse en princesa.",
+  "img": "https://image.tmdb.org/t/p/original/dHV59RraLlK5UmroXBQX9HP4CAL.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/5RAhixYbxnUeOpNTJTkLxUqEYkQ.jpg",
   "episodes": [
     {
       "id": 167,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p067.mp4"
     }
   ]
 },
 {
   "id": 68,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Spenser",
+  "des": "Accion",
+  "description": "Spenser, un ex policía que, después de pasar tiempo en prisión por un crimen que no cometió, regresa a Boston con la intención de dejar atrás su vida de violencia y crimen. Sin embargo, pronto se ve envuelto en una conspiración cuando dos policías corruptos son asesinados, y Spenser decide investigar por su cuenta, junto con su amigo y ex colega Hawk (interpretado por Winston Duke), un hombre con habilidades excepcionales en combate. Mientras Spenser y Hawk profundizan en la investigación, se enfrentan a peligros y descubren secretos oscuros de la policía y el crimen organizado.",
+  "img": "https://image.tmdb.org/t/p/original/v67tcRC4mHrNc9ZT5VnMECCoTNl.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/etj5aSSsgXsHYRrYyfd08AYujVB.jpg",
   "episodes": [
     {
       "id": 168,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p068.mp4"
     }
   ]
 },
 {
   "id": 69,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "Spiderman: No Way Home",
+  "des": "Accion",
+  "description": "La trama sigue a Peter Parker después de los eventos de Spider-Man: Far From Home (2019), en los que la identidad secreta de Spider-Man fue revelada al mundo por Mysterio. Al ser perseguido por los medios de comunicación y enfrentando consecuencias personales, Peter pide ayuda a Doctor Strange para hacer que todos olviden que él es Spider-Man. Sin embargo, cuando el hechizo sale mal, se abren brechas en el multiverso, trayendo versiones de villanos de otras dimensiones, provenientes de otras películas de Spider-Man, como Doc Ock, Green Goblin y Electro. Con el multiverso descontrolado, Peter se enfrenta a la difícil decisión de cómo manejar esta nueva amenaza y proteger a sus seres queridos. La película explora temas como la responsabilidad, la identidad, el sacrificio y el valor de las decisiones personales. Peter busca una forma de arreglar las cosas, mientras trata con las consecuencias de sus acciones y sus relaciones con sus amigos y familia.",
+  "img": "https://image.tmdb.org/t/p/original/rkLhaNa37IwzWis8rzWMAYTCdIK.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/NRjTMpsDwym6W7x4UCp0n5BNiV.jpg",
   "episodes": [
     {
       "id": 169,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p069.mp4"
     }
   ]
 },
 {
   "id": 70,
-  "name": "",
-  "des": "",
-  "description": "",
+  "name": "Indestructibles",
+  "des": "Accion",
+  "description": "El grupo de los mercenarios, dirigidos por Barney, durante una misión en África, se encuentran frente a frente con Stonebanks, el otro miembro fundador del grupo, al que Barney creía muerto. Stonebanks es ahora un rico y despiadado traficante de armas que el gobierno de los EEUU quiere capturar con vida para llevarlo al tribunal internacional de la Haya.",
   "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
   "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
   "episodes": [
@@ -1091,7 +1023,7 @@
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p070.mp4"
     }
   ]
 },
