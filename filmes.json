@@ -1131,7 +1131,7 @@
 },
 {
   "id": 82,
-  "name": "Coco (2017)",
+  "name": "Coco",
   "des": "Animacion",
   "description": "Miguel Rivera, un niño mexicano de 12 años con el sueño de convertirse en músico, a pesar de que su familia prohíbe la música debido a un antiguo conflicto familiar. Durante el Día de los Muertos, Miguel accidentalmente se transporta al Mundo de los Muertos, donde se encuentra con los espíritus de sus antepasados. En su búsqueda por obtener la bendición de su tatarabuelo, un famoso músico, Miguel debe resolver el misterio que rodea el rechazo de la música en su familia. En su aventura, se encuentra con un espíritu llamado Héctor, quien lo ayuda a entender la importancia de la memoria, la familia y el legado.",
   "img": "https://image.tmdb.org/t/p/original/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
@@ -1142,65 +1142,49 @@
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p081.mp4"
-    }
-  ]
-},
-{
-  "id": 83,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
-  "episodes": [
-    {
-      "id": 183,
-      "name": "▶ Reproducir",
-      "img": "",
-      "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p082.mp4"
     }
   ]
 },
 {
   "id": 84,
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "name": "El Robo del Siglo",
+  "des": "Accion",
+  "description": "Viernes, 13 de enero de 2006. Los policías aguardan la voz de su jefe. Miguel Sileo, el negociador, espera hablar con Vitette, uno de los líderes de la banda de ladrones que entró a la sucursal del Banco Río de Acassuso.",
+  "img": "https://image.tmdb.org/t/p/original/acQ5lwnQGwre8n3m8JzTTcNKc5h.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/pVT1S8tJcnnicAc5kCdJrAioX1E.jpg",
   "episodes": [
     {
       "id": 184,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p084.mp4"
     }
   ]
 },
 {
   "id": 85,
-  "name": "",
-  "des": "",
-  "description": "",
+  "name": "Buscando a Nemo",
+  "des": "Animacion",
+  "description": "Marlin, un pez payaso, siempre ha intentado proteger de todos los peligros a su hijo. Sin embargo, un buzo atrapa al pequeño, y ahora el padre deberá embarcarse en una increíble aventura por las aguas australianas para encontrarlo.",
   "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/dFYguAfeVt19qAbzJ5mArn7DEJw.jpg",
   "episodes": [
     {
       "id": 185,
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p085.mp4"
     }
   ]
 },
 {
   "id": 86,
-  "name": "",
-  "des": "",
-  "description": "",
+  "name": "Guerra de papás",
+  "des": "Comedia",
+  "description": "Un hombre agradable e inseguro se ve obligado a competir por el cariño de los hijos de su esposa con el padre de los chicos cuando este regresa a la ciudad. Sus personalidades no podrían ser más diferentes: el padrastro es afable, el padre rebelde.",
   "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
   "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
   "episodes": [
@@ -1209,15 +1193,15 @@
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p086.mp4"
     }
   ]
 },
 {
   "id": 87,
-  "name": "",
-  "des": "",
-  "description": "",
+  "name": "Intensamente",
+  "des": "Animacion",
+  "description": "Las cinco emociones que conviven en el interior de una niña llamada Riley, alegría, miedo, desagrado, ira y tristeza, compiten por tomar el control de sus acciones cuando la pequeña se traslada, junto a su familia, a vivir a San Francisco. La adaptación a una nueva ciudad, una nueva escuela y unos nuevos compañeros no será sencilla para Riley.",
   "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
   "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
   "episodes": [
@@ -1226,32 +1210,15 @@
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
-    }
-  ]
-},
-{
-  "id": 88,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-  "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
-  "episodes": [
-    {
-      "id": 188,
-      "name": "▶ Reproducir",
-      "img": "",
-      "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p087.mp4"
     }
   ]
 },
 {
   "id": 89,
-  "name": "",
-  "des": "",
-  "description": "",
+  "name": "Shrek",
+  "des": "Animacion",
+  "description": "Un ogro llamado Shrek vive en su pantano, pero su preciada soledad se ve súbitamente interrumpida por la invasión de los ruidosos personajes de los cuentos de hadas. Todos fueron expulsados de sus reinos por el malvado Lord Farquaad. Decidido a salvar su hogar, Shrek hace un trato con Farquaad y se prepara para rescatar a la princesa Fiona, quien será la esposa de Farquaad.",
   "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
   "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
   "episodes": [
@@ -1260,16 +1227,16 @@
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p089.mp4"
     }
   ]
 },
 {
   "id": 90,
-  "name": "",
-  "des": "",
-  "description": "",
-  "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
+  "name": "Scary Movie",
+  "des": "Comedia",
+  "description": "Una parodia de los filmes de asesinatos donde un homicida vengativo acecha a un grupo de adolescentes.",
+  "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
   "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
   "episodes": [
     {
@@ -1277,7 +1244,7 @@
       "name": "▶ Reproducir",
       "img": "",
       "description": "",
-      "videoUrl": ""
+      "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p090.mp4"
     }
   ]
 }
