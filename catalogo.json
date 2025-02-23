@@ -10,7 +10,7 @@
         {
           "id": 101,
           "name": "▶ Reproducir",
-          "img": "",
+          "img": "https://image.tmdb.org/t/p/original/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
           "description": "",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p001.mp4"
         }
