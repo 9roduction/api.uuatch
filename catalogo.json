@@ -3,7 +3,7 @@
       "id": 1,
       "name": "Nadie",
       "des": "Accion, Drama",
-      "description": "En 1967, John Chickie Donohue deja Nueva York para localizar a sus compañeros del ejército en Vietnam y compartir unas cervezas con ellos",
+      "description": "",
       "img": "https://image.tmdb.org/t/p/original/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
       "poster": "https://image.tmdb.org/t/p/original/hV6Xq7EWS9Y3t95Ttawe4g7dxtb.jpg",
       "episodes": [
@@ -11,7 +11,7 @@
           "id": 101,
           "name": "▶ Reproducir",
           "img": "https://image.tmdb.org/t/p/original/hV6Xq7EWS9Y3t95Ttawe4g7dxtb.jpg",
-          "description": "",
+          "description": "Hutch, un hombre corriente, deja que roben en su casa sin oponer resistencia. Su esposa y su hijo empiezan a tratarlo con frialdad, decepcionados por su cobardía, por lo que Hutch cambia de personalidad y abraza el riesgo y la violencia.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p001.mp4"
         }
       ]
