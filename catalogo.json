@@ -27,8 +27,8 @@
         {
           "id": 102,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/uqGRR1j6qkBWC6lgrM2xGPJYPsr.jpg",
+          "description": "Después de perder a su novia poseída, Kisha, en un accidente automovilístico, Malcolm (Marlon Wayans) inicia una nueva relación con Megan (Jaime Pressly), una madre soltera con dos hijos: Becky y Wyatt. La familia se muda a una nueva casa, donde pronto comienzan a ocurrir fenómenos paranormales relacionados con los niños y la propiedad, incluyendo la aparición de una muñeca inquietante llamada Abigail. La situación se complica aún más cuando Kisha regresa de entre los muertos y se muda a la casa de enfrente, convirtiéndose en una exnovia demoníaca y vengativa.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p002.mp4"
         }
       ]
@@ -44,8 +44,8 @@
         {
           "id": 103,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/q5XSPlyWEd7k1JVcb6uij5e8f9G.jpg",
+          "description": "Después de perder a su novia poseída, Kisha, en un accidente automovilístico, Malcolm (Marlon Wayans) inicia una nueva relación con Megan (Jaime Pressly), una madre soltera con dos hijos: Becky y Wyatt. La familia se muda a una nueva casa, donde pronto comienzan a ocurrir fenómenos paranormales relacionados con los niños y la propiedad, incluyendo la aparición de una muñeca inquietante llamada Abigail. La situación se complica aún más cuando Kisha regresa de entre los muertos y se muda a la casa de enfrente, convirtiéndose en una exnovia demoníaca y vengativa.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p003.mp4"
         }
       ]
@@ -61,8 +61,8 @@
         {
           "id": 104,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "Mitch Buchannon (Dwayne Johnson) es un dedicado y experimentado socorrista que lidera un equipo de élite en la playa de Emerald Bay. Su trabajo se ve interrumpido cuando se ve obligado a aceptar a Matt Brody (Zac Efron), un exnadador olímpico arrogante y problemático, como parte del equipo para mejorar la imagen pública del cuerpo de salvavidas.",
+          "description": "https://image.tmdb.org/t/p/original/16b8wyWm1eiqh5b1xzpkL1bWp2p.jpg",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p004.mp4"
         }
       ]
@@ -78,8 +78,8 @@
         {
           "id": 105,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/7QshG75xKCmClghQDU1ta2BTaja.jpg",
+          "description": "Bella (Emma Watson) es una joven inteligente e independiente que vive en un pequeño pueblo con su padre, Maurice (Kevin Kline). Un día, su padre es capturado por una misteriosa Bestia (Dan Stevens) y encerrado en su castillo encantado. Para salvarlo, Bella se ofrece a tomar su lugar como prisionera.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p005.mp4"
         }
       ]
@@ -95,43 +95,9 @@
         {
           "id": 106,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "Merida, una valiente princesa escocesa, es hija del rey Fergus y la reina Elinor. Desde pequeña ha sido una arquera experta y una joven independiente que desafía las tradiciones impuestas por su madre, especialmente cuando se le exige casarse con uno de los príncipes de los clanes aliados para mantener la paz en el reino. Decidida a cambiar su destino, Merida recurre a una misteriosa bruja, quien le da un hechizo en forma de pastel. Sin embargo, al dárselo a su madre, la reina Elinor se transforma en un oso. Ahora, Merida deberá encontrar la manera de romper la maldición antes de que sea demasiado tarde, enfrentándose a desafíos, peligros y descubriendo el verdadero significado del amor y el valor familiar.",
+          "description": "https://image.tmdb.org/t/p/original/y2zuhIPSuLfUvBmvZMRRSNR4Yr5.jpg",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p006.mp4"
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "name": "Cenicienta",
-      "des": "Musical, Comedia",
-      "description": "Sigue la historia de Ella, una joven bondadosa que, tras la muerte de su padre, es maltratada por su madrastra y hermanastras. Cuando el príncipe del reino organiza un baile, su hada madrina la ayuda a asistir con un vestido mágico y una zapatilla de cristal. Ella y el príncipe se enamoran, pero debe huir antes de la medianoche, dejando atrás su zapatilla. Con ella, el príncipe logra encontrarla, y juntos viven su final feliz.",
-      "img": "https://image.tmdb.org/t/p/original/2hXIXbd0Y1VJLVwhJx0rFveDNU8.jpg",
-      "poster": "https://image.tmdb.org/t/p/original/zs3LNBTyxmwHuPe9fTYLeWg0dNp.jpg",
-      "episodes": [
-        {
-          "id": 107,
-          "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p006.mp4"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Cloud",
-      "des": "Musical, Comedia",
-      "description": "Un joven músico que, tras ser diagnosticado con un cáncer terminal, decide seguir su pasión por la música. A pesar de su enfermedad, Zach graba una canción llamada Clouds, que se convierte en un éxito viral. La película muestra su viaje emocional, el apoyo de su familia y amigos, y su valentía al enfrentar la vida con optimismo. Es una historia sobre la importancia de seguir los sueños y vivir cada día al máximo, incluso en los momentos más difíciles.",
-      "img": "https://image.tmdb.org/t/p/original/2hXIXbd0Y1VJLVwhJx0rFveDNU8.jpg",
-      "poster": "https://image.tmdb.org/t/p/original/zs3LNBTyxmwHuPe9fTYLeWg0dNp.jpg",
-      "episodes": [
-        {
-          "id": 108,
-          "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p007.mp4"
         }
       ]
     },
@@ -163,33 +129,16 @@
         {
           "id": 110,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/ue36Y5NOejMwYhXdKeMjGmUvTOq.jpg",
+          "description": "Deadpool tiene que proteger a un mutante adolescente de Cable, un soldado del futuro genéticamente modificado, pero Deadpool no está solo: otros superhéroes igual de chiflados que él unen sus fuerzas contra el perverso Cable.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p010.mp4"
         },
         {
           "id": 111,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/wsPO5Jny82b0pksjSvjUHEYHDkz.jpg",
+          "description": "Un exmercenario quien, tras haber sido sometido a un cruel experimento, adquiere el superpoder de sanar rápidamente y pretende vengarse del hombre que destrozó su vida.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p011.mp4"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "name": "Aguas profundas",
-      "des": "Romance, Drama",
-      "description": "Vic (Ben Affleck) y Melinda Van Allen (Ana de Armas), una pareja casada que vive en Little Wesley, Louisiana. Su matrimonio, marcado por la falta de amor, se mantiene unido por un acuerdo tácito: Melinda puede tener amantes siempre que no abandone a su familia.",
-      "img": "https://image.tmdb.org/t/p/original/aarAi6bp8Cl3RYXy2lpeLc1hGS7.jpg",
-      "poster": "https://image.tmdb.org/t/p/original/5tZkPgnRIT0sRYzMDyzYZx5ZFrZ.jpg",
-      "episodes": [
-        {
-          "id": 112,
-          "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p012.mp4"
         }
       ]
     },
@@ -204,8 +153,8 @@
         {
           "id": 113,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/dCN8a6Lzc9pMOKXXOSbQSqRnjDF.jpg",
+          "description": "Jason Kelly (Zac Efron) es un joven abogado que, antes de casarse, decide acompañar a su abuelo, Dick Kelly (Robert De Niro), a un viaje de despedida de soltero a Florida. Dick, un hombre viudo y algo irreverente, tiene la intención de disfrutar de su última aventura antes de la boda de Jason, lo que lleva a una serie de situaciones cómicas y vergonzosas. A lo largo del viaje, Dick anima a su nieto a romper con las expectativas y a disfrutar de la vida, mientras ambos se enfrentan a situaciones embarazosas y divertidas.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p013.mp4"
         }
       ]
@@ -214,50 +163,16 @@
       "id": 14,
       "name": "Dog",
       "des": "Comedia, Drama",
-      "description": "Jackson Briggs (Tatum), un ranger del ejército de EE. UU. asignado para escoltar a Lulu, una perra belga malinois, desde la Base de la Fuerza Aérea McChord en Washington hasta Nogales, Arizona, para asistir al funeral de su adiestrador. A lo largo del viaje, Briggs enfrenta su trastorno por estrés postraumático y sus dificultades para establecer conexiones emocionales, mientras desarrolla una inesperada relación con Lulu.",
+      "description": "Jackson Briggs (Tatum), un ranger del ejército de EE.UU. asignado para escoltar a Lulu, una perra belga malinois, desde la Base de la Fuerza Aérea McChord en Washington hasta Nogales, Arizona, para asistir al funeral de su adiestrador. A lo largo del viaje, Briggs enfrenta su trastorno por estrés postraumático y sus dificultades para establecer conexiones emocionales, mientras desarrolla una inesperada relación con Lulu.",
       "img": "https://image.tmdb.org/t/p/original/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg",
       "poster": "https://image.tmdb.org/t/p/original/ffsEyx9TfP8oOeNgTetgDUgndYw.jpg",
       "episodes": [
         {
           "id": 114,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/ffsEyx9TfP8oOeNgTetgDUgndYw.jpg",
+          "description": "Jackson Briggs (Tatum), un ranger del ejército de EE.UU. asignado para escoltar a Lulu, una perra belga malinois, desde la Base de la Fuerza Aérea McChord en Washington hasta Nogales, Arizona, para asistir al funeral de su adiestrador. A lo largo del viaje, Briggs enfrenta su trastorno por estrés postraumático y sus dificultades para establecer conexiones emocionales, mientras desarrolla una inesperada relación con Lulu.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p014.mp4"
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "name": "El Paramo",
-      "des": "Terror, Suspenso",
-      "description": "En una base militar ubicada en un páramo desolado y aislado, donde un grupo de soldados, liderados por el teniente Múnera (Juan Pablo Urrego), se encuentra estacionado en una misión de vigilancia. A medida que los días pasan, comienzan a experimentar fenómenos extraños e inexplicables: voces, ruidos y presencias que parecen desafiar la lógica.",
-      "img": "https://image.tmdb.org/t/p/original/a1L6Az0XXLUYMuTCoRPgmh66I8W.jpg",
-      "poster": "https://image.tmdb.org/t/p/original/zY81yhtqmXDZifT4gcjZkS0CFrw.jpg",
-      "episodes": [
-        {
-          "id": 115,
-          "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p015.mp4"
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "name": "Eternals",
-      "des": "Accion",
-      "description": "Los Eternals son un grupo de seres inmortales con poderes extraordinarios que fueron enviados a la Tierra por los Celestiales para proteger a la humanidad de los Deviantes, una raza maligna que amenaza con destruirla. A lo largo de los siglos, los Eternals se han mantenido en las sombras, sin interferir en los eventos importantes de la historia humana. Sin embargo, cuando los Deviantes regresan con más fuerza, los Eternals deben reunirse nuevamente para detenerlos.",
-      "img": "https://image.tmdb.org/t/p/original/a1L6Az0XXLUYMuTCoRPgmh66I8W.jpg",
-      "poster": "https://image.tmdb.org/t/p/original/pA4zDYM1VdGArC7NVW8nIy5s8aE.jpg",
-      "episodes": [
-        {
-          "id": 116,
-          "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p016.mp4"
         }
       ]
     },
@@ -270,11 +185,18 @@
       "poster": "https://image.tmdb.org/t/p/original/tinP0337hK5EfxPhsNo82ecqBVK.jpg",
       "episodes": [
         {
-          "id": 118,
-          "name": "Rapidos Y Furiosos 6",
-          "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p018.mp4"
+            "id": 147,
+            "name": "Rapidos Y Furiosos 1",
+            "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
+            "description": "",
+            "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p047.mp4"
+        },
+        {
+            "id": 148,
+            "name": "Rapidos Y Furiosos: Tokyo Drift",
+            "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
+            "description": "",
+            "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p047.mp4"
         },
         {
           "id": 119,
@@ -291,26 +213,19 @@
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p020.mp4"
         },
         {
+            "id": 118,
+            "name": "Rapidos Y Furiosos 6",
+            "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
+            "description": "",
+            "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p018.mp4"
+          },
+        {
           "id": 124,
           "name": "Rapidos Y Furiosos 7",
           "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
           "description": "",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p024.mp4"
-        },
-        {
-          "id": 147,
-          "name": "Rapidos Y Furiosos 1",
-          "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p047.mp4"
-        },
-        {
-          "id": 148,
-          "name": "Rapidos Y Furiosos: Tokyo Drift",
-          "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p047.mp4"
-        }
+        }  
       ]
     },
     {
@@ -324,8 +239,8 @@
         {
           "id": 121,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "50 Sombras de Grey",
+          "img": "https://image.tmdb.org/t/p/original/zlaexwtu87zQLRhlPeFOxch9KS0.jpg",
+          "description": "Anastasia Steele (Dakota Johnson), una joven estudiante universitaria, que se encuentra con Christian Grey (Jamie Dornan), un exitoso empresario con un oscuro secreto. Cuando Anastasia lo entrevista para el periódico de su universidad, se siente atraída por él, y rápidamente comienza una relación que se va tornando más profunda y complicada.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p021.mp4"
         }
       ]
@@ -341,8 +256,8 @@
         {
           "id": 122,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/izeegDZ9CIg7oNP0OrD6BNCrIsX.jpg",
+          "description": "https://image.tmdb.org/t/p/original/h6MguWMTgoMW1WSmMQFVJBqhWiz.jpg",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p022.mp4"
         }
       ]
@@ -358,8 +273,8 @@
         {
           "id": 123,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/rgz51ESlPANtfy1PUsYItTi1HaB.jpg",
+          "description": "Un hombre con un coeficiente intelectual bajo, pero con un corazón enorme y una serie de habilidades que lo llevan a vivir una vida increíble. A lo largo de la película, Forrest narra sus experiencias a varias personas en una parada de autobús, mientras recuerda su participación en momentos históricos importantes, como la Guerra de Vietnam, el movimiento de derechos civiles y su relación con figuras públicas.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p023.mp4"
         }
       ]
@@ -375,15 +290,15 @@
         {
           "id": 125,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/lCuUOHTX930k7eJkmOqcSDwQbzl.jpg",
+          "description": "Un grupo de soldados estadounidenses liderados por el sargento Don Collier (Brad Pitt), quienes operan un tanque llamado Fury en las últimas etapas de la guerra. Tras una emboscada, el equipo se ve obligado a luchar en territorio enemigo, enfrentando intensas batallas con soldados alemanes. El grupo está formado por personajes muy diferentes entre sí, pero se une por la lealtad y la necesidad de sobrevivir en el frente de batalla.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p025.mp4"
         }
       ]
     },
     {
       "id": 26,
-      "name": "Gemini",
+      "name": "Geminis",
       "des": "Accion",
       "description": "Henry Brogan (Will Smith) es un asesino profesional que comienza a cuestionar su vida tras una misión en la que mata a un objetivo sin saber que era inocente. Cuando decide retirarse, descubre que alguien está tratando de matarlo. Pronto se enfrenta a un asesino que resulta ser un clon joven suyo, creado por un programa secreto del gobierno. Mientras Henry huye de su perseguidor, comienza a descubrir oscuros secretos sobre su propia creación y las implicaciones morales de los experimentos científicos en los que estuvo involucrado. La película explora temas de identidad, la ética de la clonación y el enfrentamiento entre los dos hombres, que deben enfrentarse no solo entre ellos, sino también a las fuerzas que los manipulan.",
       "img": "https://image.tmdb.org/t/p/original/fjCK5YIDRXrAnffd56zJOYfgF46.jpg",
@@ -392,8 +307,8 @@
         {
           "id": 126,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/hriSyoIGTgtFLrVgudltpDszTvd.jpg",
+          "description": "Henry Brogan (Will Smith) es un asesino profesional que comienza a cuestionar su vida tras una misión en la que mata a un objetivo sin saber que era inocente. Cuando decide retirarse, descubre que alguien está tratando de matarlo. Pronto se enfrenta a un asesino que resulta ser un clon joven suyo, creado por un programa secreto del gobierno. Mientras Henry huye de su perseguidor, comienza a descubrir oscuros secretos sobre su propia creación y las implicaciones morales de los experimentos científicos en los que estuvo involucrado. La película explora temas de identidad, la ética de la clonación y el enfrentamiento entre los dos hombres, que deben enfrentarse no solo entre ellos, sino también a las fuerzas que los manipulan.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p026.mp4"
         }
       ]
@@ -402,14 +317,14 @@
       "id": 27,
       "name": "Son como niños",
       "des": "Comedia",
-      "description": "Henry Brogan (Will Smith) es un asesino profesional que comienza a cuestionar su vida tras una misión en la que mata a un objetivo sin saber que era inocente. Cuando decide retirarse, descubre que alguien está tratando de matarlo. Pronto se enfrenta a un asesino que resulta ser un clon joven suyo, creado por un programa secreto del gobierno. Mientras Henry huye de su perseguidor, comienza a descubrir oscuros secretos sobre su propia creación y las implicaciones morales de los experimentos científicos en los que estuvo involucrado. La película explora temas de identidad, la ética de la clonación y el enfrentamiento entre los dos hombres, que deben enfrentarse no solo entre ellos, sino también a las fuerzas que los manipulan.",
+      "description": "Un grupo de amigos y excompañeros descubren que envejecer no siempre significa madurar cuando se reúnen para honrar la memoria de su entrenador de baloncesto.",
       "img": "https://image.tmdb.org/t/p/original/poUK5Gg7IkPokaBTjadzjPfJgKw.jpg",
       "poster": "https://image.tmdb.org/t/p/original/wHmhObk0WNb5fL4Y5x4XWUhpLZ4.jpg",
       "episodes": [
         {
           "id": 127,
           "name": "▶ Reproducir",
-          "img": "",
+          "img": "https://image.tmdb.org/t/p/original/wHmhObk0WNb5fL4Y5x4XWUhpLZ4.jpg",
           "description": "Son como niños 1",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p027.mp4"
         }
@@ -418,7 +333,7 @@
     {
       "id": 28,
       "name": "Garra",
-      "des": "Comedia",
+      "des": "Drama",
       "description": "Stanley Sugerman (Adam Sandler), un cazatalentos de baloncesto profesional que trabaja para los Philadelphia 76ers. Después de una serie de fracasos en su carrera, Stanley descubre a un jugador de baloncesto increíblemente talentoso pero desconocido llamado Bo Cruz (Juancho Hernangómez), quien juega en las calles de España. Stanley, convencido del potencial de Bo, decide llevarlo a Estados Unidos para que se pruebe en la NBA.",
       "img": "https://image.tmdb.org/t/p/original/yjtvXD7FyjQSLqvatkY0y1CNazR.jpg",
       "poster": "https://image.tmdb.org/t/p/original/vhsLIA8uASB1Fj3Bxzxe6Q3S8Ao.jpg",
@@ -426,8 +341,8 @@
         {
           "id": 128,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/vhsLIA8uASB1Fj3Bxzxe6Q3S8Ao.jpg",
+          "description": "Stanley Sugerman (Adam Sandler), un cazatalentos de baloncesto profesional que trabaja para los Philadelphia 76ers. Después de una serie de fracasos en su carrera, Stanley descubre a un jugador de baloncesto increíblemente talentoso pero desconocido llamado Bo Cruz (Juancho Hernangómez), quien juega en las calles de España. Stanley, convencido del potencial de Bo, decide llevarlo a Estados Unidos para que se pruebe en la NBA.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p028.mp4"
         }
       ]
@@ -443,8 +358,8 @@
         {
           "id": 129,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/aeqAisiEF8ZPOhRfdYcR5OAwiKH.jpg",
+          "description": "Una joven que regresa a la casa de su abuela en Madrid para cuidarla, después de que esta sufriera un accidente. Su abuela (Vera Valdez) es una mujer mayor y algo enigmática que vive en un viejo apartamento. A medida que Susana se instala en la casa, empieza a notar comportamientos extraños en su abuela, y una serie de eventos inquietantes comienzan a ocurrir.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p029.mp4"
         }
       ]
@@ -460,8 +375,8 @@
         {
           "id": 130,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/8VfRW3mOfOje7QHcZzcaGHde38B.jpg",
+          "description": "Una cocker spaniel de clase media que vive con una pareja cariñosa en una casa suburbana. Su vida tranquila se ve interrumpida cuando sus dueños tienen un bebé, lo que hace que Lady se sienta desplazada y celosa. Un día, tras escapar de la casa, Lady conoce a Tramp (voz de Justin Theroux), un perro mestizo y callejero que tiene una vida completamente diferente, llena de libertad y aventuras. A pesar de sus diferencias, los dos perros forman una fuerte amistad y, eventualmente, un romance mientras exploran la ciudad y se enfrentan a varios desafíos, incluyendo un peligroso secuestro de Lady",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p030.mp4"
         }
       ]
@@ -470,33 +385,16 @@
       "id": 31,
       "name": "Toda una vida en un año",
       "des": "Romance, Drama",
-      "description": "Daryn (Jaden Smith), un adolescente que lleva una vida estructurada y planificada por su padre, quien tiene grandes expectativas para su futuro. Todo cambia cuando Daryn conoce a Isabelle (Cara Delevingne), una chica rebelde y apasionada que le muestra una perspectiva diferente de la vida. Poco después de enamorarse, Daryn descubre que Isabelle está gravemente enferma y tiene menos de un año de vida debido a un cáncer terminal. A partir de ese momento, Daryn se dedica a hacer de su último año juntos lo más significativo posible. Juntos viven experiencias inolvidables, mientras Daryn lucha por enfrentar el amor, la pérdida y la importancia de aprovechar el tiempo.",
+      "description": "",
       "img": "https://image.tmdb.org/t/p/original/xGDbQI7Gtgurt9W5ez6Tim2lpS2.jpg",
       "poster": "https://image.tmdb.org/t/p/original/u6aGN71Hx39iX8Uv4ILRRKHmAXc.jpg",
       "episodes": [
         {
           "id": 131,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/u6aGN71Hx39iX8Uv4ILRRKHmAXc.jpg",
+          "description": "Daryn (Jaden Smith), un adolescente que lleva una vida estructurada y planificada por su padre, quien tiene grandes expectativas para su futuro. Todo cambia cuando Daryn conoce a Isabelle (Cara Delevingne), una chica rebelde y apasionada que le muestra una perspectiva diferente de la vida. Poco después de enamorarse, Daryn descubre que Isabelle está gravemente enferma y tiene menos de un año de vida debido a un cáncer terminal. A partir de ese momento, Daryn se dedica a hacer de su último año juntos lo más significativo posible. Juntos viven experiencias inolvidables, mientras Daryn lucha por enfrentar el amor, la pérdida y la importancia de aprovechar el tiempo.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p031.mp4"
-        }
-      ]
-    },
-     {
-      "id": 32,
-      "name": "Las locuras de Kronck",
-      "des": "Animacion, Comedia",
-      "description": "Kronk está tratando de vivir una vida tranquila como chef en un restaurante. Sin embargo, cuando se encuentra con su padre, quien siempre le ha exigido más de lo que es capaz de dar, Kronk comienza a sentir la presión de no haber alcanzado las expectativas familiares. A lo largo de la película, Kronk recibe una oferta para ayudar a un grupo de niños huérfanos, pero su vida da un giro cuando debe decidir entre ser el hijo perfecto para su padre o seguir su propio camino y hacer lo correcto. Con la ayuda de sus amigos, incluida la ardilla malhumorada y un demonio y ángel internos que le guían en sus decisiones, Kronk se embarca en una serie de cómicas y alocadas situaciones.",
-      "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-      "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
-      "episodes": [
-        {
-          "id": 132,
-          "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p032.mp4"
         }
       ]
     },
@@ -504,15 +402,15 @@
     "id": 33,
     "name": "Malefica",
     "des": "Drama",
-    "description": "Una joven hada que vive en un reino mágico. Después de ser traicionada por un hombre en quien confiaba, que le roba sus alas, Maléfica se convierte en una figura amarga y vengativa. En su deseo de vengarse, lanza una maldición sobre la hija del rey, Aurora, que cae en un sueño profundo al pincharse con un huso. Sin embargo, a lo largo de la película, Maléfica se da cuenta de que Aurora no es el verdadero enemigo, sino que comienza a cuidar de ella, formándose una relación maternal entre ambas. A través de la historia, Maléfica busca redimir su corazón y se enfrenta a los actos crueles del rey, redescubriendo el amor y la compasión.",
+    "description": "",
     "img": "https://image.tmdb.org/t/p/original/2d4lnLtysk2jrLdJaAtUL6CuXYE.jpg",
     "poster": "https://image.tmdb.org/t/p/original/dRkIKbH2wjZzRfHBwUJhb5KSgiD.jpg",
     "episodes": [
       {
         "id": 133,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/dRkIKbH2wjZzRfHBwUJhb5KSgiD.jpg",
+        "description": "Una joven hada que vive en un reino mágico. Después de ser traicionada por un hombre en quien confiaba, que le roba sus alas, Maléfica se convierte en una figura amarga y vengativa. En su deseo de vengarse, lanza una maldición sobre la hija del rey, Aurora, que cae en un sueño profundo al pincharse con un huso. Sin embargo, a lo largo de la película, Maléfica se da cuenta de que Aurora no es el verdadero enemigo, sino que comienza a cuidar de ella, formándose una relación maternal entre ambas. A través de la historia, Maléfica busca redimir su corazón y se enfrenta a los actos crueles del rey, redescubriendo el amor y la compasión.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p033.mp4"
       }
     ]
@@ -528,46 +426,13 @@
       {
         "id": 134,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "Louisa Clark, una joven de una familia trabajadora que consigue un empleo como cuidadora de Will Traynor, un hombre adinerado que quedó tetrapléjico tras un accidente. Al principio, Will es un hombre amargado y sarcástico debido a su nueva situación, mientras que Louisa es una chica alegre, pero un tanto desorganizada y sin grandes ambiciones.",
+        "description": "https://image.tmdb.org/t/p/original/cQEaKXHR6cfRoA54mLLtRGzIsaA.jpg",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p034.mp4"
       }
     ]
   },
-  {
-    "id": 35,
-    "name": "El papa del vaticano",
-    "des": "Terror, Suspenso",
-    "description": "Gabriele Amorth, quien fue uno de los exorcistas más conocidos del Vaticano. La trama se centra en el padre Amorth, interpretado por Russell Crowe, quien enfrenta a un demonio extremadamente poderoso que ha poseído a un joven. A lo largo de la película, Amorth se ve envuelto en una serie de confrontaciones sobrenaturales mientras trata de salvar a la víctima y desvelar un misterio más grande relacionado con el Vaticano y los poderes oscuros. La historia mezcla elementos de exorcismo y conspiración dentro de una atmósfera tensa y de suspense.",
-    "img": "https://image.tmdb.org/t/p/original/2z1PVqfzvT4KjPNpQRfy5HpsyIW.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/uhIFqaSZKHf0nTj1kCyihDttujU.jpg",
-    "episodes": [
-      {
-        "id": 135,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
-        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p035.mp4"
-      }
-    ]
-  },
-  {
-    "id": 36,
-    "name": "Rendirse jamas 3",
-    "des": "Accion",
-    "description": "Casey (interpretado por Michael Jai White), un luchador de MMA retirado, se encuentra atrapado en una vida de recuerdos y arrepentimientos. Después de recibir una invitación para participar en un torneo de artes marciales, decide regresar al ring y enfrentarse a sus propios demonios.",
-    "img": "https://image.tmdb.org/t/p/original/mjt23G7XNCoXP71Mdi9fpKNYNY0.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/kZLQWdIMdCysmqGR25xsW961ABi.jpg",
-    "episodes": [
-      {
-        "id": 136,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
-        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p036.mp4"
-      }
-    ]
-  },
+
   {
     "id": 37,
     "name": "Sangre, sudor, y gloria",
@@ -579,8 +444,8 @@
       {
         "id": 137,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/73Ridh5DhGBmKAiwq8gy3IbtthT.jpg",
+        "description": "Daniel Lugo (interpretado por Wahlberg), es un culturista obsesionado con el éxito material, quien recluta a un par de compañeros de gimnasio para llevar a cabo su plan criminal. Sin embargo, lo que comienza como una idea sencilla de secuestro y extorsión se convierte rápidamente en una serie de desastres y complicaciones que llevan a los personajes a situaciones cada vez más absurdas y peligrosas.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p037.mp4"
       }
     ]
@@ -596,60 +461,9 @@
       {
         "id": 138,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/hNou5JVGr5vj4ZRScLDuX6xMPjh.jpg",
+        "description": "Geppetto, un hombre solitario, crea a Pinocho como una forma de llenar el vacío dejado por la pérdida de su hijo. A lo largo de la historia, Pinocho enfrenta diversas pruebas y aprende importantes lecciones sobre la vida, la honestidad y el amor, mientras Geppetto busca protegerlo de los peligros que enfrenta el muñeco.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p038.mp4"
-      }
-    ]
-  },
-  {
-    "id": 39,
-    "name": "Barbie",
-    "des": "Comedia",
-    "description": "Barbie, quien vive en un mundo idealizado y perfecto en Barbieland, un lugar lleno de versiones de diferentes Barbies y Kens. Sin embargo, Barbie comienza a cuestionar su existencia cuando se enfrenta a una crisis personal, sintiendo que no encaja en el molde perfecto que se espera de ella. Esto la lleva a un viaje fuera de Barbieland, hacia el mundo real, donde enfrenta situaciones que desafían su visión del mundo y la identidad que siempre ha tenido.",
-    "img": "https://image.tmdb.org/t/p/original/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/8XXUELxpH8abOjqa6kg69UXpvDW.jpg",
-    "episodes": [
-      {
-        "id": 139,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
-        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p039.mp4"
-      }
-    ]
-  },
-  {
-    "id": 40,
-    "name": "Samaritan",
-    "des": "Accion",
-    "description": "La historia se desarrolla en una ciudad en decadencia, donde el protagonista, un hombre llamado Joe Smith, lleva una vida discreta y alejada de la sociedad. Joe es un hombre solitario que oculta un gran secreto: en su juventud, fue un superhéroe conocido como Samaritan, que luchaba contra el crimen y que desapareció misteriosamente después de una gran batalla. La trama comienza cuando un joven llamado Sam (interpretado por Javon Walton) descubre la identidad secreta de Joe y trata de convencerlo de que vuelva a ser el héroe que una vez fue, ya que la ciudad está cayendo en el caos y necesita alguien para detener a un villano peligroso. A lo largo de la película, Joe se enfrenta a dilemas sobre su pasado y su deseo de redención, mientras trata de proteger al joven y enfrentar sus propios temores y limitaciones.",
-    "img": "https://image.tmdb.org/t/p/original/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/cYpCXPkwJ1HERZM6C7MLkiDZEoS.jpg",
-    "episodes": [
-      {
-        "id": 140,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
-        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p040.mp4"
-      }
-    ]
-  },
-  {
-    "id": 41,
-    "name": "El Rey Leon",
-    "des": "Animacion",
-    "description": "Simba, un joven león heredero al trono del Reino de la Sabana. Tras la trágica muerte de su padre, Mufasa, a manos de su malvado tío Scar, Simba huye, sintiéndose culpable por lo sucedido. A lo largo de los años, Simba vive en el exilio, donde conoce a nuevos amigos, Timón y Pumba, y adopta su despreocupada filosofía de vida, Hakuna Matata. Sin embargo, cuando descubre que su hogar está siendo destruido bajo el gobierno tiránico de Scar, Simba decide regresar para reclamar su legítimo lugar como rey. Con la ayuda de sus amigos y el consejo del sabio Rafiki, Simba enfrenta sus miedos y acepta su destino, restaurando el equilibrio y la paz en el reino. La película explora temas de superación personal, responsabilidad y el ciclo de la vida.",
-    "img": "https://image.tmdb.org/t/p/original/nPe31wxhbvEm09pnJoKEqly8wFM.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
-    "episodes": [
-      {
-        "id": 141,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
-        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p041.mp4"
       }
     ]
   },
@@ -664,8 +478,8 @@
       {
         "id": 142,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/6BdcYbQtYlh5XmuSnwHZxYnKIxo.jpg",
+        "description": "Rapunzel (voz de Mandy Moore), quien tiene un largo cabello mágico que tiene el poder de sanar heridas y mantener la juventud. Rapunzel fue secuestrada cuando era un bebé por una malvada bruja llamada Madre Gothel (voz de Donna Murphy), quien la mantiene prisionera en una torre aislada, usándola para su propio beneficio.Un día, un ladrón llamado Flynn Rider (voz de Zachary Levi) se esconde en la torre de Rapunzel, y ella lo captura, exigiendo que la lleve al mundo exterior para ver las luces flotantes que se lanzan cada año en su cumpleaños. Juntos, emprenden una aventura llena de acción, comedia y emoción, mientras Rapunzel descubre la verdad sobre su pasado y enfrenta los oscuros secretos de Madre Gothel.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p042.mp4"
       }
     ]
@@ -674,32 +488,15 @@
     "id": 43,
     "name": "Ted",
     "des": "Comedia",
-    "description": " John Bennett (interpretado por Mark Wahlberg), un hombre que, cuando era niño, hizo realidad su deseo de tener un oso de peluche que cobrara vida. El resultado fue Ted, un oso parlante y desinhibido que se convierte en el mejor amigo de John. Sin embargo, a medida que pasan los años, Ted sigue siendo una figura inmadura y problemática, lo que genera conflictos en la vida adulta de John, especialmente con su novia, Lori (interpretada por Mila Kunis), quien no aprueba la relación entre John y el oso.",
-    "img": "https://image.tmdb.org/t/p/original/yaOTp446NGXY1iaHVe3OFS8gwP.jpg",
+    "description": "John Bennett (interpretado por Mark Wahlberg), un hombre que, cuando era niño, hizo realidad su deseo de tener un oso de peluche que cobrara vida. El resultado fue Ted, un oso parlante y desinhibido que se convierte en el mejor amigo de John. Sin embargo, a medida que pasan los años, Ted sigue siendo una figura inmadura y problemática, lo que genera conflictos en la vida adulta de John, especialmente con su novia, Lori (interpretada por Mila Kunis), quien no aprueba la relación entre John y el oso.",
+    "img": "https://image.tmdb.org/t/p/original/1DY7eSoQLoTNhJTT455N74VuHHx.jpg",
     "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
     "episodes": [
       {
         "id": 143,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
-        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p043.mp4"
-      }
-    ]
-  },
-  {
-    "id": 44,
-    "name": "Masacre en Texas",
-    "des": "Terror, Suspenso",
-    "description": "un grupo de jóvenes emprendedores que llegan a una pequeña ciudad en Texas con la intención de revitalizarla, pero descubren que Leatherface sigue vivo y escondido después de tantos años. Cuando estos jóvenes invaden el espacio de Leatherface, se desata una serie de eventos sangrientos y terroríficos mientras luchan por sobrevivir al asesino que acecha en las sombras.",
-    "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
-    "episodes": [
-      {
-        "id": 144,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+        "description": "John Bennett (interpretado por Mark Wahlberg), un hombre que, cuando era niño, hizo realidad su deseo de tener un oso de peluche que cobrara vida. El resultado fue Ted, un oso parlante y desinhibido que se convierte en el mejor amigo de John. Sin embargo, a medida que pasan los años, Ted sigue siendo una figura inmadura y problemática, lo que genera conflictos en la vida adulta de John, especialmente con su novia, Lori (interpretada por Mila Kunis), quien no aprueba la relación entre John y el oso.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p043.mp4"
       }
     ]
@@ -708,32 +505,15 @@
     "id": 46,
     "name": "Soldado de elite",
     "des": "Accion",
-    "description": " Jonas Blane, un miembro experimentado y líder del equipo, quien debe lidiar con las dificultades de mantener el secreto sobre su trabajo y las tensiones familiares que esto genera. A lo largo de la serie, los miembros del equipo realizan operaciones encubiertas en todo el mundo, enfrentándose a terroristas, peligros internacionales y a menudo poniendo sus vidas en riesgo.",
+    "description": "Jonas Blane, un miembro experimentado y líder del equipo, quien debe lidiar con las dificultades de mantener el secreto sobre su trabajo y las tensiones familiares que esto genera. A lo largo de la serie, los miembros del equipo realizan operaciones encubiertas en todo el mundo, enfrentándose a terroristas, peligros internacionales y a menudo poniendo sus vidas en riesgo.",
     "img": "https://image.tmdb.org/t/p/original/uboar85WH92Q5Ct2Y0B2YEdYRNF.jpg",
     "poster": "https://image.tmdb.org/t/p/original/HaBoob5Oyu4cSIqJNCvVXAsrfQ.jpg",
     "episodes": [
       {
         "id": 146,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
-        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p043.mp4"
-      }
-    ]
-  },
-  {
-    "id": 49,
-    "name": "Bajo la misma estrella",
-    "des": "Romance",
-    "description": "Hazel Grace Lancaster (interpretada por Shailene Woodley), una adolescente que lucha contra el cáncer de tiroides que se ha diseminado a sus pulmones. Debido a su enfermedad, Hazel depende de un tanque de oxígeno para respirar y enfrenta una vida limitada por la enfermedad, aunque mantiene una actitud positiva. Hazel asiste a un grupo de apoyo para pacientes de cáncer, donde conoce a Augustus Waters (interpretado por Ansel Elgort), un joven carismático y en remisión de cáncer osteosarcoma. Aunque inicialmente su relación es complicada, los dos se enamoran profundamente mientras comparten sus pensamientos, su amor por la literatura y sus sueños, especialmente después de que Hazel le comparte su libro favorito, Un amor para siempre, escrito por un autor recluido llamado Peter Van Houten.",
-    "img": "https://image.tmdb.org/t/p/original/wWtK2Kg4afUaQ2LVzQKsdcvJnLa.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/22l5YKpMHBeh0o4uHQ079Y19PPg.jpg",
-    "episodes": [
-      {
-        "id": 149,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/HaBoob5Oyu4cSIqJNCvVXAsrfQ.jpg",
+        "description": "Jonas Blane, un miembro experimentado y líder del equipo, quien debe lidiar con las dificultades de mantener el secreto sobre su trabajo y las tensiones familiares que esto genera. A lo largo de la serie, los miembros del equipo realizan operaciones encubiertas en todo el mundo, enfrentándose a terroristas, peligros internacionales y a menudo poniendo sus vidas en riesgo.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p043.mp4"
       }
     ]
@@ -749,8 +529,8 @@
       {
         "id": 150,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/fD7Xp62sx9q6aDYcOiyHIce1yJ2.jpg",
+        "description": "Stuart Long era un exboxeador que luchaba con problemas personales, incluyendo el alcoholismo y la falta de dirección en su vida. Sin embargo, después de sufrir una serie de eventos transformadores, incluyendo un accidente que lo lleva a enfrentarse a su propia mortalidad, Stuart encuentra un nuevo propósito en la vida y decide convertirse en sacerdote. A lo largo de la película, se muestra su lucha interna, los desafíos que enfrenta debido a su pasado, y la aceptación de su vocación religiosa.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p050.mp4"
       }
     ]
@@ -766,8 +546,8 @@
       {
         "id": 154,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/r326kGBSeX49TnyTyyw3nJRqYjv.jpg",
+        "description": "Jordan Belfort desde sus humildes comienzos como un joven aspirante a corredor de bolsa, hasta su meteórico ascenso en la bolsa de valores con su propia firma, Stratton Oakmont. A lo largo de la película, Jordan y su equipo se dedican a realizar prácticas fraudulentas y manipular el mercado para obtener enormes ganancias, mientras disfrutan de una vida llena de lujos, fiestas desenfrenadas, drogas y excesos de todo tipo. Sin embargo, el estilo de vida hedonista y la falta de escrúpulos de Jordan lo llevan eventualmente a una caída. El gobierno comienza a investigar sus prácticas ilegales, y la película explora los efectos de la corrupción, el poder y la avaricia, mientras Belfort enfrenta las consecuencias de sus acciones.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p054.mp4"
       }
     ]
@@ -783,8 +563,8 @@
       {
         "id": 156,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/cTTggc927lEPCMsWUsdugSj6wAY.jpg",
+        "description": "La historia comienza con Nathan, quien, después de haber sido un huérfano, es reclutado por Sully, un experimentado cazador de tesoros, para buscar un tesoro de valor incalculable. Juntos viajan por el mundo enfrentando traiciones, luchando contra rivales peligrosos, como el antagonista Moncada (interpretado por Antonio Banderas), y resolviendo intrincados acertijos y desafíos para llegar al tesoro antes que ellos.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p056.mp4"
       }
     ]
@@ -800,8 +580,8 @@
       {
         "id": 157,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/r0kZNywAeN6Ar75rxDqLlTP5RiJ.jpg",
+        "description": "Arthur Fleck es un hombre con problemas mentales que trabaja como payaso de calle, pero su vida se ve marcada por la pobreza, el rechazo social, el abuso y la falta de apoyo emocional. A medida que enfrenta una serie de humillaciones y crisis personales, su salud mental se deteriora, lo que lo lleva a una espiral de violencia y desesperación. En su lucha por encontrar una identidad propia y ser reconocido en una sociedad que lo margina, Arthur se transforma gradualmente en el Joker, el villano caótico y aterrador que desafía el orden establecido.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p057.mp4"
       }
     ]
@@ -817,8 +597,8 @@
       {
         "id": 158,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/h3EG2tfaCukETiibpLhQeTk1lwR.jpg",
+        "description": "Eddie Brock (Tom Hardy) se convierte en el anfitrión del simbiótico Venom, quien tiene increíbles poderes y una naturaleza violenta. Al principio, Eddie lucha por controlar la relación con Venom, que le otorga habilidades extraordinarias, como fuerza sobrehumana y la capacidad de cambiar su forma física. Juntos, deben enfrentar a Carlton Drake (Riz Ahmed), un ejecutivo corporativo que dirige la empresa Life Foundation, que experimenta con los simbióticos en busca de poder, lo que amenaza con destruir la ciudad.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p058.mp4"
       }
     ]
@@ -834,8 +614,8 @@
       {
         "id": 159,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/dTFJlBGWSqW6rMiawQidMPxleTd.jpg",
+        "description": "David es un hombre joven que, al principio, tiene una vida tranquila, trabajando como masajista, pero se ve envuelto en el mundo del tráfico de armas cuando su amigo de la infancia, Efraim, le ofrece unirse a su empresa. Efraim es un ambicioso empresario que, a través de contratos con el gobierno de los Estados Unidos, vende armas a países en conflicto. A medida que David se involucra más en el negocio, se da cuenta de las implicaciones morales de lo que están haciendo, pero también se siente seducido por el dinero y el estilo de vida extravagante que conlleva.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p059.mp4"
       }
     ]
@@ -851,8 +631,8 @@
       {
         "id": 160,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/poNXP9N0bYLuDdNWpQzHCfavkYp.jpg",
+        "description": "Cole Carter (interpretado por Zac Efron), un joven DJ de Los Ángeles que sueña con convertirse en un productor de música electrónica de renombre. Cole y su grupo de amigos luchan por salir adelante en un mundo lleno de fiestas, música y excesos, pero él tiene la ambición de alcanzar el éxito profesional y encontrar su verdadero camino. A lo largo de la película, Cole se encuentra con James Reed (interpretado por Wes Bentley), un DJ exitoso y mentor que le ayuda a entender el mundo de la música electrónica, pero también le enseña que el éxito puede tener un alto precio. Además, Cole se enamora de la novia de James, Sophie (interpretada por Emily Ratajkowski), lo que complica aún más su vida personal y profesional.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p060.mp4"
       }
     ]
@@ -868,8 +648,8 @@
       {
         "id": 161,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/3aAV0sWY3NowjZP0OwWTIV4Z7vB.jpg",
+        "description": "Judy Hopps (voz de Ginnifer Goodwin), una coneja que se convierte en la primera oficial de policía en Zootopia, una ciudad donde coexisten animales de diferentes hábitats. A pesar de su pequeño tamaño y la discriminación que enfrenta por ser una coneja, Judy está determinada a demostrar su valía. Junto a un zorro estafador llamado Nick Wilde (voz de Jason Bateman), Judy se ve involucrada en la investigación de un misterioso caso de desapariciones de animales en la ciudad. A lo largo de su aventura, los dos deben aprender a trabajar juntos, dejando atrás sus prejuicios y diferencias para resolver el caso.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p061.mp4"
       }
     ]
@@ -885,8 +665,8 @@
       {
         "id": 162,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/p8XnVA7zWZu7ZJsM1Cm9l7S9IH8.jpg",
+        "description": "Krypto, el perro de Superman, quien tiene poderes similares a los de su dueño, y a una banda de mascotas con habilidades especiales que deben unirse para salvar a sus dueños y el mundo de una amenaza malvada. La historia comienza cuando Superman y los demás miembros de la Liga de la Justicia son secuestrados por un villano llamado Lulu (una cerdita genéticamente modificada), y Krypto se ve obligado a formar un equipo de animales con habilidades especiales para rescatar a sus dueños. Entre las mascotas se encuentran Ace, el perro con habilidades de combate; PB, una cerdita que puede cambiar de tamaño; Merton, una tortuga con velocidad sobrehumana; y Chip, un conejillo de indias con poderes eléctricos. Juntos, deben aprender a trabajar en equipo para detener a Lulu y salvar a sus dueños.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p062.mp4"
       }
     ]
@@ -896,14 +676,14 @@
     "name": "Operacion Cerveza",
     "des": "Comedia, Drama",
     "description": "John Donohue (interpretado por Zac Efron), un joven de Nueva York durante la Guerra de Vietnam. En un intento por apoyar a sus amigos que están luchando en el conflicto, Chick decide llevarles personalmente cervezas a la zona de combate, como un gesto de amistad y lealtad. Lo hace como una especie de acto simbólico de apoyo moral, pero lo que comienza como una misión algo inocente y un tanto alocada, pronto se convierte en una aventura llena de desafíos, peligros y descubrimientos inesperados. A medida que Chick avanza por la peligrosa zona de guerra, la película toca temas de la amistad, la lealtad, los horrores de la guerra y las realidades que los soldados enfrentan. La historia mezcla comedia con momentos de reflexión profunda sobre los sacrificios que los hombres hicieron durante la guerra.",
-    "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
+    "img": "https://image.tmdb.org/t/p/original/6xpqRcnaKhag7XjbkoYQraDwbe4.jpg",
     "poster": "https://image.tmdb.org/t/p/original/2QrRSyLw3WQT6UGdFMUXVnXFbgN.jpg",
     "episodes": [
       {
         "id": 163,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/2QrRSyLw3WQT6UGdFMUXVnXFbgN.jpg",
+        "description": "John Donohue (interpretado por Zac Efron), un joven de Nueva York durante la Guerra de Vietnam. En un intento por apoyar a sus amigos que están luchando en el conflicto, Chick decide llevarles personalmente cervezas a la zona de combate, como un gesto de amistad y lealtad. Lo hace como una especie de acto simbólico de apoyo moral, pero lo que comienza como una misión algo inocente y un tanto alocada, pronto se convierte en una aventura llena de desafíos, peligros y descubrimientos inesperados. A medida que Chick avanza por la peligrosa zona de guerra, la película toca temas de la amistad, la lealtad, los horrores de la guerra y las realidades que los soldados enfrentan. La historia mezcla comedia con momentos de reflexión profunda sobre los sacrificios que los hombres hicieron durante la guerra.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p063.mp4"
       }
     ]
@@ -919,26 +699,9 @@
       {
         "id": 164,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/4ArHBAp8Sf2BObxLYyh0ejLff2b.jpg",
+        "description": " Graeme (Simon Pegg) y Clive (Nick Frost), quienes viajan por los Estados Unidos realizando un tour de lugares relacionados con extraterrestres y fenómenos paranormales. Durante su aventura, se encuentran con Paul, un alienígena travieso y sarcástico (voz de Seth Rogen), quien ha estado viviendo en secreto en la Tierra desde que fue capturado por el gobierno de los Estados Unidos. Después de escapar de una instalación militar secreta, Paul se une a Graeme y Clive en su viaje, mientras intentan evitar ser capturados nuevamente por el FBI.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p064.mp4"
-      }
-    ]
-  },
-  {
-    "id": 65,
-    "name": "Peter Rabbit",
-    "des": "Comedia",
-    "description": "Peter Rabbit (voz de James Corden), un conejo que vive en el jardín de la casa de un señor llamado McGregor (Domhnall Gleeson). Después de que el viejo McGregor muere, el nuevo propietario, Thomas McGregor (interpretado por Domhnall Gleeson), llega al lugar, y rápidamente entra en conflicto con Peter y sus amigos: Benjamin Bunny (Colin Moody), las conejas Flopsy, Mopsy y Cottontail, entre otros. A lo largo de la película, Peter y sus amigos hacen todo lo posible por proteger su hogar y evitar que el nuevo McGregor haga de las suyas.",
-    "img": "https://image.tmdb.org/t/p/original/bRDgMEikWMK3AJUJw0qqSJsWRAd.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/dM3XlmfTBlVMA3YIh0ZAAXZCv6s.jpg",
-    "episodes": [
-      {
-        "id": 165,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
-        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p065.mp4"
       }
     ]
   },
@@ -953,8 +716,8 @@
       {
         "id": 166,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/n8wGVOG06tBT4sBLijoikTTLIge.jpg",
+        "description": "Alex Murphy (interpretado por Joel Kinnaman), un oficial de policía de Detroit que queda gravemente herido tras un atentado en su contra. Para salvar su vida, la corporación OmniCorp decide convertirlo en RoboCop, una mezcla de humano y máquina, al implantarle un exoesqueleto robótico avanzado que lo convierte en una máquina de combate, pero todavía con restos de su humanidad. Mientras Alex comienza a luchar contra el crimen, también lucha por recuperar sus recuerdos y su identidad humana.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p066.mp4"
       }
     ]
@@ -970,8 +733,8 @@
       {
         "id": 167,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/5RAhixYbxnUeOpNTJTkLxUqEYkQ.jpg",
+        "description": "La película se enfoca en la angustia emocional de Diana mientras enfrenta las presiones de la vida en la monarquía y su difícil matrimonio con el príncipe Carlos. A lo largo del fin de semana, Diana comienza a cuestionar su futuro en la familia real, su identidad personal y su relación con sus hijos, los príncipes William y Harry. El título Spencer hace referencia al apellido de soltera de Diana, destacando su conexión con su vida antes de convertirse en princesa.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p067.mp4"
       }
     ]
@@ -987,8 +750,8 @@
       {
         "id": 168,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/etj5aSSsgXsHYRrYyfd08AYujVB.jpg",
+        "description": "Spenser, un ex policía que, después de pasar tiempo en prisión por un crimen que no cometió, regresa a Boston con la intención de dejar atrás su vida de violencia y crimen. Sin embargo, pronto se ve envuelto en una conspiración cuando dos policías corruptos son asesinados, y Spenser decide investigar por su cuenta, junto con su amigo y ex colega Hawk (interpretado por Winston Duke), un hombre con habilidades excepcionales en combate. Mientras Spenser y Hawk profundizan en la investigación, se enfrentan a peligros y descubren secretos oscuros de la policía y el crimen organizado.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p068.mp4"
       }
     ]
@@ -1004,8 +767,8 @@
       {
         "id": 169,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/NRjTMpsDwym6W7x4UCp0n5BNiV.jpg",
+        "description": "La trama sigue a Peter Parker después de los eventos de Spider-Man: Far From Home (2019), en los que la identidad secreta de Spider-Man fue revelada al mundo por Mysterio. Al ser perseguido por los medios de comunicación y enfrentando consecuencias personales, Peter pide ayuda a Doctor Strange para hacer que todos olviden que él es Spider-Man. Sin embargo, cuando el hechizo sale mal, se abren brechas en el multiverso, trayendo versiones de villanos de otras dimensiones, provenientes de otras películas de Spider-Man, como Doc Ock, Green Goblin y Electro. Con el multiverso descontrolado, Peter se enfrenta a la difícil decisión de cómo manejar esta nueva amenaza y proteger a sus seres queridos. La película explora temas como la responsabilidad, la identidad, el sacrificio y el valor de las decisiones personales. Peter busca una forma de arreglar las cosas, mientras trata con las consecuencias de sus acciones y sus relaciones con sus amigos y familia.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p069.mp4"
       }
     ]
@@ -1021,8 +784,8 @@
       {
         "id": 170,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+        "description": "El grupo de los mercenarios, dirigidos por Barney, durante una misión en África, se encuentran frente a frente con Stonebanks, el otro miembro fundador del grupo, al que Barney creía muerto. Stonebanks es ahora un rico y despiadado traficante de armas que el gobierno de los EEUU quiere capturar con vida para llevarlo al tribunal internacional de la Haya.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p070.mp4"
       }
     ]
@@ -1038,8 +801,8 @@
       {
         "id": 172,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/k99QNqdNdQMk9DAFswQpaDWht3B.jpg",
+        "description": "Jim Hanson, un veterano ex-marine que vive una vida tranquila en la frontera entre Estados Unidos y México. Tras una vida de trabajo en la agricultura y con un pasado lleno de tragedias, su vida toma un giro inesperado cuando se ve involucrado en una peligrosa misión de protección. La trama sigue a Jim cuando se encuentra con un joven inmigrante mexicano llamado Miguel (interpretado por Jacob Lattimore), quien está siendo perseguido por un cartel de drogas mexicano. Miguel y su madre son atacados, y la madre de Miguel le pide a Jim que proteja a su hijo para llevarlo a un lugar seguro en los Estados Unidos. Jim, inicialmente reacio a involucrarse, se ve forzado a proteger al joven mientras se enfrenta a los peligros del cartel, que no se detendrán ante nada para dar con Miguel.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p072.mp4"
       }
     ]
@@ -1055,8 +818,8 @@
       {
         "id": 173,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/oLp6ueqQXNWvWCFwrb6tXDnH0Ye.jpg",
+        "description": "Dos tipos peligrosos (The Nice Guys, 2016) es una comedia de acción dirigida por Shane Black, protagonizada por Ryan Gosling y Russell Crowe. Ambientada en Los Ángeles en 1977, la película sigue a un detective privado torpe, Holland March (Gosling), y un matón a sueldo, Jackson Healy (Crowe), quienes se ven obligados a trabajar juntos para resolver el caso de la desaparición de una joven llamada Amelia. A medida que investigan, se enfrentan a una peligrosa conspiración llena de corrupción y crimen, todo mientras mantienen una dinámica cómica y entretenida. La película es conocida por su humor, acción y la química entre los protagonistas.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p073.mp4"
       }
     ]
@@ -1072,8 +835,8 @@
       {
         "id": 174,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/dbyPTxCYM0MMfexzkdHLobaUE1j.jpg",
+        "description": "Togo, un husky siberiano, y su dueño y conductor de trineo, Leonhard Seppala (interpretado por Willem Dafoe). Ambientada en 1925, la película se centra en la famosa carrera de trineo de perros que tuvo lugar en Alaska, conocida como el Serum Run, cuando se transportó una dosis vital de suero antitoxina para detener una epidemia de difteria en Nome, Alaska. Togo, que es considerado el perro más viejo y menos fuerte del equipo, demuestra ser un líder excepcional a lo largo de la travesía. A pesar de las adversidades y el duro clima invernal, Togo y Seppala deben recorrer más de 260 kilómetros a través de paisajes implacables para salvar la vida de los niños afectados por la epidemia. La película resalta la conexión especial entre Seppala y Togo, mostrando su lealtad, valentía y determinación para enfrentar desafíos extraordinarios.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p074.mp4"
       }
     ]
@@ -1089,8 +852,8 @@
       {
         "id": 177,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/8YdhJNFT3Dl6th7MAVBSIAvYT34.jpg",
+        "description": "Ned (Cranston), un padre de familia que viaja con su esposa y su hija para visitar a la joven pareja de su hija, Stephanie (Deutch), durante las vacaciones de Navidad. Al llegar, descubre que el novio de su hija es Laird Mayhew (Franco), un millonario excéntrico y algo vulgar, dueño de una exitosa empresa de tecnología. A lo largo de la película, Ned intenta adaptarse a la personalidad de Laird y a su estilo de vida extravagante, mientras se siente incómodo y preocupado por la relación. La película se enfoca en los choques entre estos dos personajes muy diferentes: el padre, tradicional y conservador, y el novio, moderno, rebelde y sin filtros. La dinámica cómica surge de los intentos de Ned por rechazar a Laird, mientras este último trata de ganar su aceptación, con situaciones cómicas y absurdas.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p077.mp4"
       }
     ]
@@ -1106,26 +869,9 @@
       {
         "id": 178,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/iTRfxfLkHtKdkUhOdiQdzQEwXLO.jpg",
+        "description": "Para evitar que su relación se desmorone, una mujer viaja a Sicilia, donde conoce a un hombre peligroso llamado Massimo.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p078.mp4"
-      }
-    ]
-  },
-  {
-    "id": 80,
-    "name": "Los ángeles de Charlie (2019)",
-    "des": "Comedia",
-    "description": "Los ángeles de Charlie (2019) es una película de acción y comedia dirigida por Elizabeth Banks. Sigue a tres mujeres, Sabina (Kristen Stewart), Jane (Ella Balinska) y Elena (Naomi Scott), quienes trabajan como agentes secretos en la agencia The Townsend Agency. Juntas deben detener una peligrosa conspiración relacionada con un dispositivo tecnológico robado. La película mezcla acción, espionaje y comedia, con énfasis en la camaradería entre las protagonistas. Aunque no fue un éxito de taquilla, recibió elogios por las actuaciones, especialmente la de Kristen Stewart.",
-    "img": "https://image.tmdb.org/t/p/original/2vISsOjLk8HGQAK1HgajNSBGQWy.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/2RDoT0NTrwOZlumIRX7pFHlHvBo.jpg",
-    "episodes": [
-      {
-        "id": 180,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
-        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p080.mp4"
       }
     ]
   },
@@ -1140,8 +886,8 @@
       {
         "id": 182,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/gKZAQ3b9yApxFunUBlS5Mp74QG4.jpg",
+        "description": "Miguel Rivera, un niño mexicano de 12 años con el sueño de convertirse en músico, a pesar de que su familia prohíbe la música debido a un antiguo conflicto familiar. Durante el Día de los Muertos, Miguel accidentalmente se transporta al Mundo de los Muertos, donde se encuentra con los espíritus de sus antepasados. En su búsqueda por obtener la bendición de su tatarabuelo, un famoso músico, Miguel debe resolver el misterio que rodea el rechazo de la música en su familia. En su aventura, se encuentra con un espíritu llamado Héctor, quien lo ayuda a entender la importancia de la memoria, la familia y el legado.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p082.mp4"
       }
     ]
@@ -1157,8 +903,8 @@
       {
         "id": 184,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/pVT1S8tJcnnicAc5kCdJrAioX1E.jpg",
+        "description": "Viernes, 13 de enero de 2006. Los policías aguardan la voz de su jefe. Miguel Sileo, el negociador, espera hablar con Vitette, uno de los líderes de la banda de ladrones que entró a la sucursal del Banco Río de Acassuso.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p084.mp4"
       }
     ]
@@ -1174,8 +920,8 @@
       {
         "id": 185,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "Marlin, un pez payaso, siempre ha intentado proteger de todos los peligros a su hijo. Sin embargo, un buzo atrapa al pequeño, y ahora el padre deberá embarcarse en una increíble aventura por las aguas australianas para encontrarlo.",
+        "description": "https://image.tmdb.org/t/p/original/dFYguAfeVt19qAbzJ5mArn7DEJw.jpg",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p085.mp4"
       }
     ]
@@ -1191,8 +937,8 @@
       {
         "id": 186,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+        "description": "Un hombre agradable e inseguro se ve obligado a competir por el cariño de los hijos de su esposa con el padre de los chicos cuando este regresa a la ciudad. Sus personalidades no podrían ser más diferentes: el padrastro es afable, el padre rebelde.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p086.mp4"
       }
     ]
@@ -1208,8 +954,8 @@
       {
         "id": 187,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+        "description": "Las cinco emociones que conviven en el interior de una niña llamada Riley, alegría, miedo, desagrado, ira y tristeza, compiten por tomar el control de sus acciones cuando la pequeña se traslada, junto a su familia, a vivir a San Francisco. La adaptación a una nueva ciudad, una nueva escuela y unos nuevos compañeros no será sencilla para Riley.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p087.mp4"
       }
     ]
@@ -1225,8 +971,8 @@
       {
         "id": 189,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+        "description": "Un ogro llamado Shrek vive en su pantano, pero su preciada soledad se ve súbitamente interrumpida por la invasión de los ruidosos personajes de los cuentos de hadas. Todos fueron expulsados de sus reinos por el malvado Lord Farquaad. Decidido a salvar su hogar, Shrek hace un trato con Farquaad y se prepara para rescatar a la princesa Fiona, quien será la esposa de Farquaad.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p089.mp4"
       }
     ]
@@ -1242,8 +988,8 @@
       {
         "id": 190,
         "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "img": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+        "description": "Una parodia de los filmes de asesinatos donde un homicida vengativo acecha a un grupo de adolescentes.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p090.mp4"
       }
     ]
