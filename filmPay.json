@@ -15,8 +15,9 @@
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p001.mp4"
         }
       ]
+        unit_price: 1,
     },
-  unit_price: 1,
+  
     {
       "id": 2,
       "name": "Inactividad Paranormal 2",
@@ -33,6 +34,7 @@
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p002.mp4"
         }
       ]
+    unit_price: 1,
     },
-  unit_price: 1,
+
 ]
