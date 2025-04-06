@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Nadie",
+      "des": "Accion, Drama",
+      "description": "En 1967, John Chickie Donohue deja Nueva York para localizar a sus compañeros del ejército en Vietnam y compartir unas cervezas con ellos",
+      "img": "https://image.tmdb.org/t/p/original/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
+      "poster": "https://image.tmdb.org/t/p/original/hV6Xq7EWS9Y3t95Ttawe4g7dxtb.jpg",
+      "episodes": [
+        {
+          "id": 101,
+          "name": "▶ Reproducir",
+          "img": "",
+          "description": "",
+          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p001.mp4"
+        }
+      ]
+    },
+  unit_price: 1,
+    {
+      "id": 2,
+      "name": "Inactividad Paranormal 2",
+      "des": "Comedia",
+      "description": "Después de perder a su novia poseída, Kisha, en un accidente automovilístico, Malcolm (Marlon Wayans) inicia una nueva relación con Megan (Jaime Pressly), una madre soltera con dos hijos: Becky y Wyatt. La familia se muda a una nueva casa, donde pronto comienzan a ocurrir fenómenos paranormales relacionados con los niños y la propiedad, incluyendo la aparición de una muñeca inquietante llamada Abigail. La situación se complica aún más cuando Kisha regresa de entre los muertos y se muda a la casa de enfrente, convirtiéndose en una exnovia demoníaca y vengativa.",
+      "img": "https://image.tmdb.org/t/p/original/vRbDuqlmGPM9wGZ3VwbrjQu16Oa.jpg",
+      "poster": "https://image.tmdb.org/t/p/original/uqGRR1j6qkBWC6lgrM2xGPJYPsr.jpg",
+      "episodes": [
+        {
+          "id": 102,
+          "name": "▶ Reproducir",
+          "img": "",
+          "description": "",
+          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p002.mp4"
+        }
+      ]
+    },
+  unit_price: 1,
+]
