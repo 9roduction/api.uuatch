@@ -1,18 +1,18 @@
-[
-    {
-      id: '1',
-      date: '2025-04-06 12:00:00',
-      img: 'https://image.tmdb.org/t/p/original/vz14urfVNjvibJEWDAaJScxZDcZ.jpg',
-      title: 'MINECRAFT!',
-      description:
-        'Esta es una imagen de ejemplo que ilustra cómo agregar una descripción a un artículo en el feed.',
+ [
+  {
+    id: '1',
+    date: '2025-04-06 12:00:00',
+    img: 'https://image.tmdb.org/t/p/original/vz14urfVNjvibJEWDAaJScxZDcZ.jpg',
+    title: 'MINECRAFT!',
+    description:
+      'Esta es una imagen de ejemplo que ilustra cómo agregar una descripción a un artículo en el feed.',
+  },
+  {
+    id: '2',
+    date: '2025-04-06 14:30:00',
+    videoUrl: 'https://www.w3schools.com/html/movie.mp4',
+    title: 'Título del video',
+    description:
+    'Este es un video de ejemplo que se reproduce usando Expo AV. Es un pequeño clip de muestra.',
     },
-    {
-      id: '2',
-      date: '2025-04-06 14:30:00',
-      videoUrl: 'https://www.w3schools.com/html/movie.mp4',
-      title: 'Título del video',
-      description:
-        'Este es un video de ejemplo que se reproduce usando Expo AV. Es un pequeño clip de muestra.',
-    },
-]
+];
