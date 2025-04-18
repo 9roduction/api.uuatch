@@ -9,9 +9,16 @@
     "episodes": [
       {
         "id": 101,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "name": "Vidas pasadas",
+        "img": "https://image.tmdb.org/t/p/original/i8lsfJzt7buKLotPwCTBQyuPavN.jpg",
+        "description": "Joel intenta redimirce con Ellie ante los acontencimientos de la primera temporada",
+        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p001.mp4"
+      },
+      {
+        "id": 102,
+        "name": "Muertos en el valle",
+        "img": "https://image.tmdb.org/t/p/original/nJOU5Ok1VdJGSrzTYwttRxHOCkJ.jpg",
+        "description": "Tommy ayuda a Joel a vengarse de Abby, y demas.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p001.mp4"
       }
     ],
