@@ -139,7 +139,7 @@
       "id": 9,
       "name": "Cruella",
       "des": "Accion, Comedia",
-      "description": "Estella (Emma Stone) es una joven ambiciosa y creativa que sueña con convertirse en una gran diseñadora de moda en Londres. Después de sufrir la pérdida de su madre y convertirse en huérfana, se une a dos jóvenes ladrones, Horace (Paul Walter Hauser) y Jasper (Joel Fry), con quienes comienza a forjar su camino en el mundo de la moda.",
+      "description": "La joven Estella decide hacerse un nombre en el mundo de la moda y, gracias a la baronesa Von Hellman, una leyenda de la moda, deja que el lado malvado de su personalidad se adueñe de ella para convertirse en la vengativa Cruella.",
       "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
       "poster": "https://image.tmdb.org/t/p/original/5tZkPgnRIT0sRYzMDyzYZx5ZFrZ.jpg",
       "episodes": [
@@ -147,7 +147,7 @@
           "id": 109,
           "name": "▶ Reproducir",
           "img": "",
-          "description": "",
+          "description": "La joven Estella decide hacerse un nombre en el mundo de la moda y, gracias a la baronesa Von Hellman, una leyenda de la moda, deja que el lado malvado de su personalidad se adueñe de ella para convertirse en la vengativa Cruella.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p009.mp4"
         }
       ]
@@ -156,22 +156,22 @@
       "id": 10,
       "name": "Deadpool",
       "des": "Accion, Comedia",
-      "description": "Un joven músico que, tras ser diagnosticado con un cáncer terminal, decide seguir su pasión por la música. A pesar de su enfermedad, Zach graba una canción llamada Clouds, que se convierte en un éxito viral. La película muestra su viaje emocional, el apoyo de su familia y amigos, y su valentía al enfrentar la vida con optimismo. Es una historia sobre la importancia de seguir los sueños y vivir cada día al máximo, incluso en los momentos más difíciles.",
+      "description": "Wade Wilson, tras ser sometido a un cruel experimento científico, adquiere poderes especiales que le convierten en Deadpool. Armado con sus nuevas habilidades y un retorcido sentido del humor tratará de dar caza al hombre que casi destruye su vida.",
       "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
-      "poster": "https://image.tmdb.org/t/p/original/5tZkPgnRIT0sRYzMDyzYZx5ZFrZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/original/wsPO5Jny82b0pksjSvjUHEYHDkz.jpg",
       "episodes": [
         {
           "id": 110,
           "name": "▶ Reproducir",
           "img": "",
-          "description": "",
+          "description": "Wade Wilson, tras ser sometido a un cruel experimento científico, adquiere poderes especiales que le convierten en Deadpool. Armado con sus nuevas habilidades y un retorcido sentido del humor tratará de dar caza al hombre que casi destruye su vida.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p010.mp4"
         },
         {
           "id": 111,
           "name": "▶ Reproducir",
           "img": "",
-          "description": "",
+          "description": "Deadpool trabaja ahora a escala internacional, eliminando a asesinos de masas, gánsteres, traficantes de personas y demás indeseables. Se creen intocables, pero Deadpool sabe cómo deshacerse de ellos de la forma más complicada, desmedida y sangrienta posible.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p011.mp4"
         }
       ]
@@ -272,43 +272,43 @@
         {
           "id": 118,
           "name": "Rapidos Y Furiosos 6",
-          "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/A0X2evOc46o7fC4Ee7sJSgmA4Z1.jpg",
+          "description": "Tienen que vivir como fugitivos, incapaces de regresar con sus familias. Mientras tanto, el agente Hobbs ha estado persiguiendo a unos conductores mercenarios cuyo segundo al mando es alguien que Don conoce. Incapaz de detenerlo solo, Hobbs le pide ayuda a Dom y su equipo a cambio del perdón para todos.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p018.mp4"
         },
         {
           "id": 119,
           "name": "Rapidos Y Furiosos 4",
-          "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/acktCBsLJcgEJsjTuyiQhJipCD6.jpg",
+          "description": "El ex convicto Dominic Toretto se une a su viejo adversario, Brian O'Conner, que ahora trabaja para el FBI en Los Ángeles, con el fin de infiltrarse en una organización criminal que se dedica a introducir heroína en la ciudad.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p019.mp4"
         },
         {
           "id": 120,
           "name": "Rapidos Y Furiosos 5",
-          "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/krtWl2iNKAzoZZnVCgApBsH30sb.jpg",
+          "description": "Los viejos amigos Dominic y Mia Toretto y Brian O'Conner se encuentran ahora en Río de Janeiro, donde pretenden dar un último golpe con el fin de obtener su libertad. Para ello reúnen a un grupo de élite de pilotos experimentados.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p020.mp4"
         },
         {
           "id": 124,
           "name": "Rapidos Y Furiosos 7",
-          "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/r8fA2ueh46HXoXD1eWbe1XXSZzD.jpg",
+          "description": "Dom quiere acercarse a Letty y Brian se acostumbra a la vida en una urbanización con Mia y su hijo. Sin embargo, la tranquilidad no dura mucho y todo cambia cuando un asesino británico entra en sus vidas para convertirse en su mayor enemigo.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p024.mp4"
         },
         {
           "id": 147,
           "name": "Rapidos Y Furiosos 1",
           "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
-          "description": "",
+          "description": "Cada noche, Los Ángeles es testigo de alguna carrera de coches. Últimamente ha aparecido un nuevo corredor, todos saben que es duro y que es rápido, pero lo que no saben es que es un detective con la determinación de salir victorioso.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p047.mp4"
         },
         {
           "id": 148,
           "name": "Rapidos Y Furiosos: Tokyo Drift",
           "img": "https://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
-          "description": "",
+          "description": " Sean descubre un nuevo deporte emocionante, pero peligroso. Las apuestas son muy altas cuando Sean se enfrenta al campeón local y se enamora de su novia.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p047.mp4"
         }
       ]
@@ -349,7 +349,7 @@
     },
     {
       "id": 23,
-      "name": "Forest Gump",
+      "name": "Forrest Gump",
       "des": "Comedia",
       "description": "Un hombre con un coeficiente intelectual bajo, pero con un corazón enorme y una serie de habilidades que lo llevan a vivir una vida increíble. A lo largo de la película, Forrest narra sus experiencias a varias personas en una parada de autobús, mientras recuerda su participación en momentos históricos importantes, como la Guerra de Vietnam, el movimiento de derechos civiles y su relación con figuras públicas.",
       "img": "https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
@@ -483,23 +483,6 @@
         }
       ]
     },
-     {
-      "id": 32,
-      "name": "Las locuras de Kronck",
-      "des": "Animacion, Comedia",
-      "description": "Kronk está tratando de vivir una vida tranquila como chef en un restaurante. Sin embargo, cuando se encuentra con su padre, quien siempre le ha exigido más de lo que es capaz de dar, Kronk comienza a sentir la presión de no haber alcanzado las expectativas familiares. A lo largo de la película, Kronk recibe una oferta para ayudar a un grupo de niños huérfanos, pero su vida da un giro cuando debe decidir entre ser el hijo perfecto para su padre o seguir su propio camino y hacer lo correcto. Con la ayuda de sus amigos, incluida la ardilla malhumorada y un demonio y ángel internos que le guían en sus decisiones, Kronk se embarca en una serie de cómicas y alocadas situaciones.",
-      "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-      "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
-      "episodes": [
-        {
-          "id": 132,
-          "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p032.mp4"
-        }
-      ]
-    },
     {
     "id": 33,
     "name": "Malefica",
@@ -531,23 +514,6 @@
         "img": "",
         "description": "",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p034.mp4"
-      }
-    ]
-  },
-  {
-    "id": 35,
-    "name": "El papa del vaticano",
-    "des": "Terror, Suspenso",
-    "description": "Gabriele Amorth, quien fue uno de los exorcistas más conocidos del Vaticano. La trama se centra en el padre Amorth, interpretado por Russell Crowe, quien enfrenta a un demonio extremadamente poderoso que ha poseído a un joven. A lo largo de la película, Amorth se ve envuelto en una serie de confrontaciones sobrenaturales mientras trata de salvar a la víctima y desvelar un misterio más grande relacionado con el Vaticano y los poderes oscuros. La historia mezcla elementos de exorcismo y conspiración dentro de una atmósfera tensa y de suspense.",
-    "img": "https://image.tmdb.org/t/p/original/2z1PVqfzvT4KjPNpQRfy5HpsyIW.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/uhIFqaSZKHf0nTj1kCyihDttujU.jpg",
-    "episodes": [
-      {
-        "id": 135,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
-        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p035.mp4"
       }
     ]
   },
@@ -603,23 +569,6 @@
     ]
   },
   {
-    "id": 39,
-    "name": "Barbie",
-    "des": "Comedia",
-    "description": "Barbie, quien vive en un mundo idealizado y perfecto en Barbieland, un lugar lleno de versiones de diferentes Barbies y Kens. Sin embargo, Barbie comienza a cuestionar su existencia cuando se enfrenta a una crisis personal, sintiendo que no encaja en el molde perfecto que se espera de ella. Esto la lleva a un viaje fuera de Barbieland, hacia el mundo real, donde enfrenta situaciones que desafían su visión del mundo y la identidad que siempre ha tenido.",
-    "img": "https://image.tmdb.org/t/p/original/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/8XXUELxpH8abOjqa6kg69UXpvDW.jpg",
-    "episodes": [
-      {
-        "id": 139,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
-        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p039.mp4"
-      }
-    ]
-  },
-  {
     "id": 40,
     "name": "Samaritan",
     "des": "Accion",
@@ -633,23 +582,6 @@
         "img": "",
         "description": "",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p040.mp4"
-      }
-    ]
-  },
-  {
-    "id": 41,
-    "name": "El Rey Leon",
-    "des": "Animacion",
-    "description": "Simba, un joven león heredero al trono del Reino de la Sabana. Tras la trágica muerte de su padre, Mufasa, a manos de su malvado tío Scar, Simba huye, sintiéndose culpable por lo sucedido. A lo largo de los años, Simba vive en el exilio, donde conoce a nuevos amigos, Timón y Pumba, y adopta su despreocupada filosofía de vida, Hakuna Matata. Sin embargo, cuando descubre que su hogar está siendo destruido bajo el gobierno tiránico de Scar, Simba decide regresar para reclamar su legítimo lugar como rey. Con la ayuda de sus amigos y el consejo del sabio Rafiki, Simba enfrenta sus miedos y acepta su destino, restaurando el equilibrio y la paz en el reino. La película explora temas de superación personal, responsabilidad y el ciclo de la vida.",
-    "img": "https://image.tmdb.org/t/p/original/nPe31wxhbvEm09pnJoKEqly8wFM.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
-    "episodes": [
-      {
-        "id": 141,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
-        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p041.mp4"
       }
     ]
   },
@@ -1015,8 +947,8 @@
     "name": "Indestructibles",
     "des": "Accion",
     "description": "El grupo de los mercenarios, dirigidos por Barney, durante una misión en África, se encuentran frente a frente con Stonebanks, el otro miembro fundador del grupo, al que Barney creía muerto. Stonebanks es ahora un rico y despiadado traficante de armas que el gobierno de los EEUU quiere capturar con vida para llevarlo al tribunal internacional de la Haya.",
-    "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+    "img": "https://image.tmdb.org/t/p/original/fwfvIIUS9WE1vHuE7f18kXNcy8o.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/gDRlw7GoA0OoLvijXNCTTdtAtNX.jpg",
     "episodes": [
       {
         "id": 170,
@@ -1203,7 +1135,7 @@
     "des": "Animacion",
     "description": "Las cinco emociones que conviven en el interior de una niña llamada Riley, alegría, miedo, desagrado, ira y tristeza, compiten por tomar el control de sus acciones cuando la pequeña se traslada, junto a su familia, a vivir a San Francisco. La adaptación a una nueva ciudad, una nueva escuela y unos nuevos compañeros no será sencilla para Riley.",
     "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/mPWqtFxc1r1aiArhTHAWrk9MmwB.jpg",
     "episodes": [
       {
         "id": 187,
