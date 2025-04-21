@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Nadie",
+    "name": "The Last Of Us",
     "des": "Accion, Drama",
     "description": "En 1967, John Chickie Donohue deja Nueva York para localizar a sus compañeros del ejército en Vietnam y compartir unas cervezas con ellos",
-    "img": "https://image.tmdb.org/t/p/original/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
+    "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
     "poster": "https://image.tmdb.org/t/p/original/hV6Xq7EWS9Y3t95Ttawe4g7dxtb.jpg",
     "episodes": [
       {
@@ -27,17 +27,17 @@
   
   {
     "id": 2,
-    "name": "Inactividad Paranormal 2",
-    "des": "Comedia",
+    "name": "The Chosen",
+    "des": "Drama",
     "description": "Después de perder a su novia poseída, Kisha, en un accidente automovilístico, Malcolm (Marlon Wayans) inicia una nueva relación con Megan (Jaime Pressly), una madre soltera con dos hijos: Becky y Wyatt. La familia se muda a una nueva casa, donde pronto comienzan a ocurrir fenómenos paranormales relacionados con los niños y la propiedad, incluyendo la aparición de una muñeca inquietante llamada Abigail. La situación se complica aún más cuando Kisha regresa de entre los muertos y se muda a la casa de enfrente, convirtiéndose en una exnovia demoníaca y vengativa.",
-    "img": "https://image.tmdb.org/t/p/original/vRbDuqlmGPM9wGZ3VwbrjQu16Oa.jpg",
+    "img": "https://image.tmdb.org/t/p/original/bWw1Sb8AtqIy0t0aYugczit4HSE.jpg",
     "poster": "https://image.tmdb.org/t/p/original/uqGRR1j6qkBWC6lgrM2xGPJYPsr.jpg",
     "episodes": [
       {
         "id": 102,
-        "name": "▶ Reproducir",
-        "img": "",
-        "description": "",
+        "name": "Todos te llamaran por tu nombre",
+        "img": "https://image.tmdb.org/t/p/original/cnZpv1i6DGcpANb4QhnLAXoNDdG.jpg",
+        "description": "Dos hermanos luchan contra sus deudas fiscales con Roma, mientras una mujer en el Cuarto Rojo se debate con sus demonios.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p002.mp4"
       }
     ],
