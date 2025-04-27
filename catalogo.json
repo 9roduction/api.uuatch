@@ -10,8 +10,8 @@
         {
           "id": 101,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/hV6Xq7EWS9Y3t95Ttawe4g7dxtb.jpg",
+          "description": "En 1967, John Chickie Donohue deja Nueva York para localizar a sus compañeros del ejército en Vietnam y compartir unas cervezas con ellos",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p001.mp4"
         }
       ]
@@ -20,33 +20,16 @@
       "id": 2,
       "name": "Inactividad Paranormal 2",
       "des": "Comedia",
-      "description": "Después de perder a su novia poseída, Kisha, en un accidente automovilístico, Malcolm (Marlon Wayans) inicia una nueva relación con Megan (Jaime Pressly), una madre soltera con dos hijos: Becky y Wyatt. La familia se muda a una nueva casa, donde pronto comienzan a ocurrir fenómenos paranormales relacionados con los niños y la propiedad, incluyendo la aparición de una muñeca inquietante llamada Abigail. La situación se complica aún más cuando Kisha regresa de entre los muertos y se muda a la casa de enfrente, convirtiéndose en una exnovia demoníaca y vengativa.",
+      "description": "Malcolm inicia una nueva relación con Megan, una madre soltera con dos hijos: Becky y Wyatt. La familia se muda a una nueva casa, donde pronto comienzan a ocurrir fenómenos paranormales",
       "img": "https://image.tmdb.org/t/p/original/vRbDuqlmGPM9wGZ3VwbrjQu16Oa.jpg",
       "poster": "https://image.tmdb.org/t/p/original/uqGRR1j6qkBWC6lgrM2xGPJYPsr.jpg",
       "episodes": [
         {
           "id": 102,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/uqGRR1j6qkBWC6lgrM2xGPJYPsr.jpg",
+          "description": "Malcolm inicia una nueva relación con Megan, una madre soltera con dos hijos: Becky y Wyatt. La familia se muda a una nueva casa, donde pronto comienzan a ocurrir fenómenos paranormales",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p002.mp4"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Cuestion de tiempo",
-      "des": "Comedia, Drama",
-      "description": "A los 21 años, Tim Lake (Domhnall Gleeson) descubre que los hombres de su familia tienen la habilidad de viajar en el tiempo. Su padre (Bill Nighy) le explica que puede retroceder a momentos de su propia vida y cambiarlos. Tim decide usar este don para mejorar su vida, especialmente en el amor. Al mudarse a Londres, conoce a Mary (Rachel McAdams) y se enamora de ella. Usando su poder, intenta perfeccionar su relación, corrigiendo errores y creando la historia de amor ideal. Sin embargo, pronto descubre que no todo se puede controlar y que, a pesar de viajar en el tiempo, debe aprender a valorar cada momento tal como es. Es una emotiva historia que mezcla romance, humor y reflexiones sobre la vida, el destino y la importancia de disfrutar el presente.",
-      "img": "https://image.tmdb.org/t/p/original/6b8zipp2Z4Io5RVuaATBNKtlbE6.jpg",
-      "poster": "https://image.tmdb.org/t/p/original/q5XSPlyWEd7k1JVcb6uij5e8f9G.jpg",
-      "episodes": [
-        {
-          "id": 103,
-          "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p003.mp4"
         }
       ]
     },
@@ -54,33 +37,16 @@
       "id": 4,
       "name": "Baywatch",
       "des": "Comedia, Suspenso",
-      "description": "Mitch Buchannon (Dwayne Johnson) es un dedicado y experimentado socorrista que lidera un equipo de élite en la playa de Emerald Bay. Su trabajo se ve interrumpido cuando se ve obligado a aceptar a Matt Brody (Zac Efron), un exnadador olímpico arrogante y problemático, como parte del equipo para mejorar la imagen pública del cuerpo de salvavidas.",
+      "description": "Mitch Buchannon es un dedicado y experimentado socorrista, y  Matt Brody, un exnadador olímpico arrogante y problemático, como parte del equipo para mejorar la imagen pública del cuerpo de salvavidas.",
       "img": "https://image.tmdb.org/t/p/original/6HE4xd8zloDqmjMZuhUCCw2UcY1.jpg",
       "poster": "https://image.tmdb.org/t/p/original/16b8wyWm1eiqh5b1xzpkL1bWp2p.jpg",
       "episodes": [
         {
           "id": 104,
           "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
+          "img": "https://image.tmdb.org/t/p/original/16b8wyWm1eiqh5b1xzpkL1bWp2p.jpg",
+          "description": "Mitch Buchannon es un dedicado y experimentado socorrista, y  Matt Brody, un exnadador olímpico arrogante y problemático, como parte del equipo para mejorar la imagen pública del cuerpo de salvavidas.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p004.mp4"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Bella Y La Bestia",
-      "des": "Drama",
-      "description": "Bella (Emma Watson) es una joven inteligente e independiente que vive en un pequeño pueblo con su padre, Maurice (Kevin Kline). Un día, su padre es capturado por una misteriosa Bestia (Dan Stevens) y encerrado en su castillo encantado. Para salvarlo, Bella se ofrece a tomar su lugar como prisionera.",
-      "img": "https://image.tmdb.org/t/p/original/9ejTG3RYW3psH0cVhFmkVtTzdJx.jpg",
-      "poster": "https://image.tmdb.org/t/p/original/7QshG75xKCmClghQDU1ta2BTaja.jpg",
-      "episodes": [
-        {
-          "id": 105,
-          "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p005.mp4"
         }
       ]
     },
@@ -98,40 +64,6 @@
           "img": "https://image.tmdb.org/t/p/original/y2zuhIPSuLfUvBmvZMRRSNR4Yr5.jpg",
           "description": "Merida, una valiente princesa escocesa, es hija del rey Fergus y la reina Elinor. Desde pequeña ha sido una arquera experta y una joven independiente que desafía las tradiciones impuestas por su madre, especialmente cuando se le exige casarse con uno de los príncipes de los clanes aliados para mantener la paz en el reino. Decidida a cambiar su destino, Merida recurre a una misteriosa bruja, quien le da un hechizo en forma de pastel. Sin embargo, al dárselo a su madre, la reina Elinor se transforma en un oso. Ahora, Merida deberá encontrar la manera de romper la maldición antes de que sea demasiado tarde, enfrentándose a desafíos, peligros y descubriendo el verdadero significado del amor y el valor familiar.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p006.mp4"
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "name": "Cenicienta",
-      "des": "Musical, Comedia",
-      "description": "Sigue la historia de Ella, una joven bondadosa que, tras la muerte de su padre, es maltratada por su madrastra y hermanastras. Cuando el príncipe del reino organiza un baile, su hada madrina la ayuda a asistir con un vestido mágico y una zapatilla de cristal. Ella y el príncipe se enamoran, pero debe huir antes de la medianoche, dejando atrás su zapatilla. Con ella, el príncipe logra encontrarla, y juntos viven su final feliz.",
-      "img": "https://image.tmdb.org/t/p/original/2hXIXbd0Y1VJLVwhJx0rFveDNU8.jpg",
-      "poster": "https://image.tmdb.org/t/p/original/zs3LNBTyxmwHuPe9fTYLeWg0dNp.jpg",
-      "episodes": [
-        {
-          "id": 107,
-          "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p006.mp4"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Cloud",
-      "des": "Musical, Comedia",
-      "description": "Un joven músico que, tras ser diagnosticado con un cáncer terminal, decide seguir su pasión por la música. A pesar de su enfermedad, Zach graba una canción llamada Clouds, que se convierte en un éxito viral. La película muestra su viaje emocional, el apoyo de su familia y amigos, y su valentía al enfrentar la vida con optimismo. Es una historia sobre la importancia de seguir los sueños y vivir cada día al máximo, incluso en los momentos más difíciles.",
-      "img": "https://image.tmdb.org/t/p/original/2hXIXbd0Y1VJLVwhJx0rFveDNU8.jpg",
-      "poster": "https://image.tmdb.org/t/p/original/zs3LNBTyxmwHuPe9fTYLeWg0dNp.jpg",
-      "episodes": [
-        {
-          "id": 108,
-          "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p007.mp4"
         }
       ]
     },
@@ -173,23 +105,6 @@
           "img": "",
           "description": "Deadpool trabaja ahora a escala internacional, eliminando a asesinos de masas, gánsteres, traficantes de personas y demás indeseables. Se creen intocables, pero Deadpool sabe cómo deshacerse de ellos de la forma más complicada, desmedida y sangrienta posible.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p011.mp4"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "name": "Aguas profundas",
-      "des": "Romance, Drama",
-      "description": "Vic (Ben Affleck) y Melinda Van Allen (Ana de Armas), una pareja casada que vive en Little Wesley, Louisiana. Su matrimonio, marcado por la falta de amor, se mantiene unido por un acuerdo tácito: Melinda puede tener amantes siempre que no abandone a su familia.",
-      "img": "https://image.tmdb.org/t/p/original/aarAi6bp8Cl3RYXy2lpeLc1hGS7.jpg",
-      "poster": "https://image.tmdb.org/t/p/original/5tZkPgnRIT0sRYzMDyzYZx5ZFrZ.jpg",
-      "episodes": [
-        {
-          "id": 112,
-          "name": "▶ Reproducir",
-          "img": "",
-          "description": "",
-          "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p012.mp4"
         }
       ]
     },
