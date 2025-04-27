@@ -930,7 +930,7 @@
     "name": "Shrek",
     "des": "Animacion",
     "description": "Un ogro llamado Shrek vive en su pantano, pero su preciada soledad se ve súbitamente interrumpida por la invasión de los ruidosos personajes de los cuentos de hadas. Todos fueron expulsados de sus reinos por el malvado Lord Farquaad. Decidido a salvar su hogar, Shrek hace un trato con Farquaad y se prepara para rescatar a la princesa Fiona, quien será la esposa de Farquaad.",
-    "img": "https://image.tmdb.org/t/p/original/rg4oTIvjr663zUfTJ7hHpmOFxRi.jpg",
+    "img": "https://image.tmdb.org/t/p/original/qeDN3klRAyDBemG3jSzv8n30zjL.jpg",
     "poster": "https://image.tmdb.org/t/p/original/rEFpqDNCYIpG5bHN0JBGo080HCf.jpg",
     "episodes": [
       {
@@ -952,7 +952,7 @@
     "episodes": [
       {
         "id": 190,
-        "name": "▶ Reproducir",
+        "name": "",
         "img": "https://image.tmdb.org/t/p/original/wWtSlD2wkLnGzTnhQZDXGJV3mul.jpg",
         "description": "Una parodia de los filmes de asesinatos donde un homicida vengativo acecha a un grupo de adolescentes.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p090.mp4"
