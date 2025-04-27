@@ -89,7 +89,7 @@
       "name": "Deadpool",
       "des": "Accion, Comedia",
       "description": "Wade Wilson, tras ser sometido a un cruel experimento científico, adquiere poderes especiales que le convierten en Deadpool. Armado con sus nuevas habilidades y un retorcido sentido del humor tratará de dar caza al hombre que casi destruye su vida.",
-      "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
+      "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
       "poster": "https://image.tmdb.org/t/p/original/wsPO5Jny82b0pksjSvjUHEYHDkz.jpg",
       "episodes": [
         {
@@ -135,7 +135,7 @@
       "episodes": [
         {
           "id": 114,
-          "name": "▶ Reproducir",
+          "name": "",
           "img": "https://image.tmdb.org/t/p/original/ffsEyx9TfP8oOeNgTetgDUgndYw.jpg",
           "description": "Un miembro del Ejército, junto a una perra llamada Lulu, recorre la costa del Pacífico para llegar al funeral de un soldado. En el camino, él y Lulu rompen un montón de leyes y ponen en peligro sus vidas.",
           "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p014.mp4"
@@ -631,7 +631,7 @@
         "id": 163,
         "name": "",
         "img": "https://image.tmdb.org/t/p/original/2QrRSyLw3WQT6UGdFMUXVnXFbgN.jpg",
-        "description": "https://image.tmdb.org/t/p/original/p8XnVA7zWZu7ZJsM1Cm9l7S9IH8.jpg",
+        "description": "En 1967, John (Chickie) Donohue deja Nueva York para localizar a sus compañeros del ejército en Vietnam y compartir unas cervezas con ellos.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p063.mp4"
       }
     ]
@@ -919,7 +919,7 @@
       {
         "id": 187,
         "name": "",
-        "img": "https://image.tmdb.org/t/p/original/38XXVy0ERYTlAZ4OHMSa3kyR2J2.jpg",
+        "img": "",
         "description": "Las cinco emociones que conviven en el interior de una niña llamada Riley, alegría, miedo, desagrado, ira y tristeza, compiten por tomar el control de sus acciones cuando la pequeña se traslada, junto a su familia, a vivir a San Francisco. La adaptación a una nueva ciudad, una nueva escuela y unos nuevos compañeros no será sencilla para Riley.",
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p087.mp4"
       }
