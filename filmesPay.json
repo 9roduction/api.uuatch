@@ -22,7 +22,7 @@
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p001.mp4"
       }
     ],
-    "unit_price": 1
+    "unit_price": 2000
   },
   
   {
@@ -41,6 +41,6 @@
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p002.mp4"
       }
     ],
-    "unit_price": 1
+    "unit_price": 2000
   }
 ]
