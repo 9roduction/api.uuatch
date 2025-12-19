@@ -87,6 +87,8 @@
     {
       "id": 10,
       "name": "Deadpool",
+        "age": "2018",
+        "time" "2hs",
       "des": "Accion, Comedia",
       "description": "Wade Wilson, tras ser sometido a un cruel experimento científico, adquiere poderes especiales que le convierten en Deadpool. Armado con sus nuevas habilidades y un retorcido sentido del humor tratará de dar caza al hombre que casi destruye su vida.",
       "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
