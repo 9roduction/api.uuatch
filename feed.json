@@ -1,14 +1,12 @@
 [
-  {
+   {
     "id": "1",
-    "date": "2025-04-06 12:00:00",
-    "img": "https://image.tmdb.org/t/p/original/ziy2IHPtWMEFVYthyZMguaB4xXp.jpg",
-    "title": "Minecraft, a la luz",
-    "description": "Una película de Minecraft es una película de aventuras estadounidense basada en el videojuego del mismo nombre de Mojang Studios. Producida por Legendary Pictures, Mojang y Vertigo Entertainment, y distribuida por Warner Bros."
+    "videoUrl": "https://www.w3schools.com/html/movie.mp4",
+    "title": "Harvey Specter",
+    "description": "El gran abogado corporativo de Manhattan, Harvey Specter y su equipo, Donna Paulsen, Louis Litt y Alex Williams, se lanzan a un juego por obtener el poder cuando un nuevo socio se une a la empresa."
   },
   {
     "id": "2",
-    "date": "2025-04-06 14:30:00",
     "videoUrl": "https://www.w3schools.com/html/movie.mp4",
     "title": "Harvey Specter",
     "description": "El gran abogado corporativo de Manhattan, Harvey Specter y su equipo, Donna Paulsen, Louis Litt y Alex Williams, se lanzan a un juego por obtener el poder cuando un nuevo socio se une a la empresa."
