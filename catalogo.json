@@ -960,5 +960,22 @@
         "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p090.mp4"
       }
     ]
+  },
+    {
+    "id": 91,
+    "name": "The Chosen",
+    "des": "Drama",
+    "description": "Drama sobre la vida de Jesucristo y la llamada de sus primeros discípulos, con un debate después de cada episodio.",
+    "img": "https://image.tmdb.org/t/p/w600_and_h900_face/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/pkPQN73QggcKyA8nGlr4DHmjjs7.jpg",
+    "episodes": [
+      {
+        "id": 191,
+        "name": "",
+        "img": "https://image.tmdb.org/t/p/original/pkPQN73QggcKyA8nGlr4DHmjjs7.jpg",
+        "description": "Drama sobre la vida de Jesucristo y la llamada de sus primeros discípulos, con un debate después de cada episodio.",
+        "videoUrl": "https://storage.googleapis.com/vkingcode/Peliculas/p090.mp4"
+      }
+    ]
   }
   ]
