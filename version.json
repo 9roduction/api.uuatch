@@ -1,6 +1,5 @@
 {
   "showUpdateAlert": true,
-  "minVersion": "1.0.1",
   "message": "¡Hay una nueva versión obligatoria! Para continuar usando la app, debés actualizar.",
   "downloadUrl": "https://tu-pagina.com/descargar"
 }
